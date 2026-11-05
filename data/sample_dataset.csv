@@ -1,0 +1,610 @@
+ID,Date,Source,Product,Text,Rating,Sentiment,Emotion
+REC-00001,2025-12-13 23:57,Twitter/X,PlayStation 5,Just got my PlayStation 5 and I'm obsessed 😍 #happy,,Positive,Joy
+REC-00002,2025-09-16 19:01,Amazon Reviews,Smart LED Bulbs,The Smart LED Bulbs is fantastic - setup took two minutes and it just works.,4,Positive,Joy
+REC-00003,2025-03-23 22:27,Reddit,Tesla Model 3,"Been using Tesla Model 3 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00004,2025-07-14 03:22,Amazon Reviews,Noise Cancelling Headphones,I've used the Noise Cancelling Headphones for three months now and it is still rock solid.,4,Positive,Trust
+REC-00005,2025-07-13 02:35,RSS Feed,Stock Market,"Stock Market suffers steep decline, thousands of jobs at risk",,Negative,Sadness
+REC-00006,2025-05-29 02:54,Amazon Reviews,Air Fryer XL,Terrible experience with the Air Fryer XL. It broke after one week.,1,Negative,Anger
+REC-00007,2025-03-25 11:22,Amazon Reviews,,Customer support for the Wireless Earbuds Pro was quick and genuinely helpful.,5,Positive,Trust
+REC-00008,2025-03-25 14:24,Amazon Reviews,Bluetooth Speaker Mini,"The Bluetooth Speaker Mini is a complete waste of money, support ignored my emails.",1,Negative,Anger
+REC-00009,2025-06-11 12:17,Amazon Reviews,Portable Power Bank,"The Portable Power Bank is a complete waste of money, support ignored my emails.",1,Negative,Anger
+REC-00010,2025-03-15 08:08,Amazon Reviews,Robot Vacuum Cleaner,"Reliable and well built, the Robot Vacuum Cleaner is a brand I'll keep buying from.",5,Positive,Trust
+REC-00011,2025-04-23 04:32,Amazon Reviews,Bluetooth Speaker Mini,"Cheap plastic, awful smell - the Bluetooth Speaker Mini feels disgusting to hold.",2,Negative,Disgust
+REC-00012,2025-11-02 02:24,Amazon Reviews,Kindle Paperwhite,"Average Kindle Paperwhite. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00013,2025-11-25 10:07,Amazon Reviews,Memory Foam Pillow,Terrible experience with the Memory Foam Pillow. It broke after one week.,2,Negative,Anger
+REC-00014,2025-09-17 03:55,Amazon Reviews,Smartwatch Series 5,Pleasantly surprised by how long the battery on the Smartwatch Series 5 lasts.,4,Positive,Surprise
+REC-00015,2025-11-03 10:31,Twitter/X,Pixel 9,Just got my Pixel 9 and I'm obsessed 😍 #happy,,Positive,Joy
+REC-00016,2025-05-04 18:05,Amazon Reviews,Air Fryer XL,"Average Air Fryer XL. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00017,2025-10-09 05:16,Amazon Reviews,Stainless Steel Cookware Set,"Average Stainless Steel Cookware Set. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00018,2025-12-10 20:23,Amazon Reviews,Smart LED Bulbs,Received the Smart LED Bulbs today. Will update after more use.,3,Neutral,Neutral
+REC-00019,2025-01-11 18:35,Amazon Reviews,Memory Foam Pillow,Absolutely love the Memory Foam Pillow! It exceeded every expectation I had.,5,Positive,Joy
+REC-00020,2025-02-04 01:55,Amazon Reviews,Portable Power Bank,"Wow, did not expect the Portable Power Bank to be this good at such a low price!",4,Positive,Surprise
+REC-00021,2025-10-20 18:30,Amazon Reviews,Portable Power Bank,I've used the Portable Power Bank for three months now and it is still rock solid.,4,Positive,Trust
+REC-00022,2025-12-04 13:22,Amazon Reviews,Stainless Steel Cookware Set,"The Stainless Steel Cookware Set is okay. Does what it says, nothing more.",3,Neutral,Neutral
+REC-00023,2025-07-26 23:21,Amazon Reviews,Memory Foam Pillow,,3,Neutral,Neutral
+REC-00024,2025-08-05 05:17,NewsAPI,Electric Vehicles,Analysts upgrade outlook on Electric Vehicles citing stable fundamentals,,Positive,Trust
+REC-00025,2025-11-30 17:53,Amazon Reviews,Fire TV Stick 4K,"Wow, did not expect the Fire TV Stick 4K to be this good at such a low price!",4,Positive,Surprise
+REC-00026,2025-09-06 15:13,Amazon Reviews,Fire TV Stick 4K,"Average Fire TV Stick 4K. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00027,2025-08-21 09:27,NewsAPI,AI Regulation,Analysts upgrade outlook on AI Regulation citing stable fundamentals,,Positive,Trust
+REC-00028,2025-10-24 23:34,Reddit,Pixel 9,Just got my Pixel 9 and I'm obsessed 😍 #happy,,Positive,Joy
+REC-00029,2025-01-30 16:05,Amazon Reviews,Robot Vacuum Cleaner,Pleasantly surprised by how long the battery on the Robot Vacuum Cleaner lasts.,4,Positive,Surprise
+REC-00030,2025-03-03 18:15,NewsAPI,Climate Policy,Experts warn of risks in Climate Policy amid growing volatility,,Negative,Fear
+REC-00031,2025-04-15 21:45,Twitter/X,Wireless Earbuds Pro,"Been using Wireless Earbuds Pro daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00032,2025-06-11 02:00,Amazon Reviews,Bluetooth Speaker Mini,Pleasantly surprised by how long the battery on the Bluetooth Speaker Mini lasts.,5,Positive,Surprise
+REC-00033,2025-03-09 11:56,Amazon Reviews,Wireless Earbuds Pro,"Can't stop smiling, the Wireless Earbuds Pro arrived early and works perfectly.",5,Positive,Joy
+REC-00034,2025-11-10 20:33,Amazon Reviews,Portable Power Bank,"So happy with the Portable Power Bank, the quality is outstanding for the price.",5,Positive,Joy
+REC-00035,2025-03-01 03:47,Amazon Reviews,4K Action Camera,"Average 4K Action Camera. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00036,2025-12-18 20:54,Reddit,PlayStation 5,"Kinda bummed, my PlayStation 5 died today 😢",,Negative,Sadness
+REC-00037,2025-05-22 01:00,Amazon Reviews,Stainless Steel Cookware Set,Absolutely love the Stainless Steel Cookware Set! It exceeded every expectation I had.,5,Positive,Joy
+REC-00038,2025-10-10 22:27,Amazon Reviews,Noise Cancelling Headphones,The Noise Cancelling Headphones started smoking while charging - honestly scary.,2,Negative,Fear
+REC-00039,2025-07-09 18:35,Twitter/X,Galaxy S25,Anyone else tried the new Galaxy S25? Thinking about it.,,Neutral,Neutral
+REC-00040,2025-04-18 21:15,Amazon Reviews,Noise Cancelling Headphones,I've used the Noise Cancelling Headphones for three months now and it is still rock solid.,5,Positive,Trust
+REC-00041,2025-05-02 05:51,Reddit,Fire TV Stick 4K,Anyone else tried the new Fire TV Stick 4K? Thinking about it.,,Neutral,Neutral
+REC-00042,2025-12-09 23:51,RSS Feed,Stock Market,Analysts upgrade outlook on Stock Market citing stable fundamentals,,Positive,Trust
+REC-00043,2025-08-29 07:12,Amazon Reviews,Smartwatch Series 5,Worst product ever. The Smartwatch Series 5 overheats and the seller won't refund.,1,Negative,Anger
+REC-00044,2025-01-13 21:12,RSS Feed,Space Exploration,Space Exploration sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00045,2025-12-14 17:21,Amazon Reviews,Bluetooth Speaker Mini,Received the Bluetooth Speaker Mini today. Will update after more use.,3,Neutral,Neutral
+REC-00046,2025-02-25 19:27,NewsAPI,Interest Rates,Analysts upgrade outlook on Interest Rates citing stable fundamentals,,Positive,Trust
+REC-00047,2025-10-23 06:16,Amazon Reviews,Robot Vacuum Cleaner,"Wow, did not expect the Robot Vacuum Cleaner to be this good at such a low price!",5,Positive,Surprise
+REC-00048,2025-08-09 02:42,Amazon Reviews,Smart LED Bulbs,"Wow, did not expect the Smart LED Bulbs to be this good at such a low price!",5,Positive,Surprise
+REC-00049,2025-12-08 13:20,RSS Feed,Climate Policy,Public backlash grows over controversial Climate Policy decision,,Negative,Anger
+REC-00050,2025-12-13 23:57,Amazon Reviews,4K Action Camera,Sadly the 4K Action Camera didn't live up to the reviews. Returning it.,2,Negative,Sadness
+REC-00051,2025-04-18 13:50,Amazon Reviews,4K Action Camera,Best purchase this year. The 4K Action Camera makes my day so much easier.,5,Positive,Joy
+REC-00052,2025-03-28 21:05,Reddit,Kindle Paperwhite,"Shoutout to the team behind Kindle Paperwhite, absolute game changer! 🙌",,Positive,Joy
+REC-00053,2025-04-12 04:01,Amazon Reviews,Robot Vacuum Cleaner,Best purchase this year. The Robot Vacuum Cleaner makes my day so much easier.,4,Positive,Joy
+REC-00054,2025-11-19 18:12,Amazon Reviews,Stainless Steel Cookware Set,Worst product ever. The Stainless Steel Cookware Set overheats and the seller won't refund.,2,Negative,Anger
+REC-00055,2025-02-24 13:14,Reddit,Kindle Paperwhite,Just got my Kindle Paperwhite and I'm obsessed 😍 #happy,,Positive,Joy
+REC-00056,2025-03-10 14:42,Amazon Reviews,Memory Foam Pillow,Absolutely love the Memory Foam Pillow! It exceeded every expectation I had.,5,Positive,Joy
+REC-00057,2025-10-08 14:57,Amazon Reviews,Robot Vacuum Cleaner,"It's a decent Robot Vacuum Cleaner, though similar to others on the market.",3,Neutral,Neutral
+REC-00058,2025-11-17 07:17,Amazon Reviews,Stainless Steel Cookware Set,Best purchase this year. The Stainless Steel Cookware Set makes my day so much easier.,5,Positive,Joy
+REC-00059,2025-03-12 04:14,Amazon Reviews,4K Action Camera,"Reliable and well built, the 4K Action Camera is a brand I'll keep buying from.",4,Positive,Trust
+REC-00060,2025-06-19 17:29,Amazon Reviews,Noise Cancelling Headphones,Worst product ever. The Noise Cancelling Headphones overheats and the seller won't refund.,2,Negative,Anger
+REC-00061,2025-10-22 12:30,Amazon Reviews,USB-C Fast Charger,"It's a decent USB-C Fast Charger, though similar to others on the market.",3,Neutral,Neutral
+REC-00062,2025-09-07 07:17,Amazon Reviews,Air Fryer XL,"Reliable and well built, the Air Fryer XL is a brand I'll keep buying from.",4,Positive,Trust
+REC-00063,2025-08-28 04:39,Amazon Reviews,Echo Dot Smart Speaker,Pleasantly surprised by how long the battery on the Echo Dot Smart Speaker lasts.,4,Positive,Surprise
+REC-00064,2025-03-11 14:11,Amazon Reviews,Espresso Machine,Terrible experience with the Espresso Machine. It broke after one week.,2,Negative,Anger
+REC-00065,2025-07-14 08:48,Amazon Reviews,Espresso Machine,"Reliable and well built, the Espresso Machine is a brand I'll keep buying from.",5,Positive,Trust
+REC-00066,2025-10-04 01:22,RSS Feed,Interest Rates,Interest Rates: what to expect in the coming week,,Neutral,Neutral
+REC-00067,2025-04-13 00:39,Amazon Reviews,Fire TV Stick 4K,Terrible experience with the Fire TV Stick 4K. It broke after one week.,1,Negative,Anger
+REC-00068,2025-08-27 22:16,Amazon Reviews,Noise Cancelling Headphones,"Can't stop smiling, the Noise Cancelling Headphones arrived early and works perfectly.",4,Positive,Joy
+REC-00069,2025-06-09 03:37,Twitter/X,Wireless Earbuds Pro,Seriously Wireless Earbuds Pro?? Third update this week and it's still broken 😡,,Negative,Anger
+REC-00070,2025-02-08 18:44,Amazon Reviews,4K Action Camera,"Cheap plastic, awful smell - the 4K Action Camera feels disgusting to hold.",1,Negative,Disgust
+REC-00071,2025-10-17 01:22,NewsAPI,Climate Policy,Public backlash grows over controversial Climate Policy decision,,Negative,Anger
+REC-00072,2025-08-04 15:06,Amazon Reviews,Air Fryer XL,Pleasantly surprised by how long the battery on the Air Fryer XL lasts.,4,Positive,Surprise
+REC-00073,2025-04-01 23:33,Amazon Reviews,Air Fryer XL,The Air Fryer XL arrived dirty and used. Gross and unacceptable.,2,Negative,Disgust
+REC-00074,2025-10-31 08:20,RSS Feed,Pixel 9,Public backlash grows over controversial Pixel 9 decision,,Negative,Anger
+REC-00075,2025-10-19 19:42,NewsAPI,Interest Rates,Officials to discuss Interest Rates at upcoming summit,,Neutral,Neutral
+REC-00076,2025-04-19 11:51,Amazon Reviews,Echo Dot Smart Speaker,The Echo Dot Smart Speaker started smoking while charging - honestly scary.,2,Negative,Fear
+REC-00077,2025-09-22 06:05,Amazon Reviews,Bluetooth Speaker Mini,"It's a decent Bluetooth Speaker Mini, though similar to others on the market.",3,Neutral,Neutral
+REC-00078,2025-11-27 22:31,Amazon Reviews,Smart LED Bulbs,Unfortunately the Smart LED Bulbs stopped charging. Such a letdown.,2,Negative,Sadness
+REC-00079,2025-06-06 21:37,Amazon Reviews,Echo Dot Smart Speaker,"So happy with the Echo Dot Smart Speaker, the quality is outstanding for the price.",4,Positive,Joy
+REC-00080,2025-12-26 14:17,Amazon Reviews,Air Fryer XL,Pleasantly surprised by how long the battery on the Air Fryer XL lasts.,5,Positive,Surprise
+REC-00081,2025-10-02 22:11,Amazon Reviews,Portable Power Bank,Best purchase this year. The Portable Power Bank makes my day so much easier.,4,Positive,Joy
+REC-00082,2025-04-10 09:14,Amazon Reviews,Stainless Steel Cookware Set,Pleasantly surprised by how long the battery on the Stainless Steel Cookware Set lasts.,4,Positive,Surprise
+REC-00083,2025-01-24 01:35,Amazon Reviews,4K Action Camera,"Wow, did not expect the 4K Action Camera to be this good at such a low price!",5,Positive,Surprise
+REC-00084,2025-10-21 09:30,Amazon Reviews,Noise Cancelling Headphones,The Noise Cancelling Headphones arrived dirty and used. Gross and unacceptable.,1,Negative,Disgust
+REC-00085,2025-02-28 02:25,Amazon Reviews,Robot Vacuum Cleaner,Best purchase this year. The Robot Vacuum Cleaner makes my day so much easier.,5,Positive,Joy
+REC-00086,2025-05-08 03:35,Amazon Reviews,Kindle Paperwhite,Pleasantly surprised by how long the battery on the Kindle Paperwhite lasts.,4,Positive,Surprise
+REC-00087,2025-10-29 13:19,Twitter/X,Fire TV Stick 4K,"Been using Fire TV Stick 4K daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00088,2025-11-17 06:16,Twitter/X,Wireless Earbuds Pro,Anyone else tried the new Wireless Earbuds Pro? Thinking about it.,,Neutral,Neutral
+REC-00089,2025-01-02 13:28,Twitter/X,Tesla Model 3,Just got my Tesla Model 3 and I'm obsessed 😍 #happy,,Positive,Joy
+REC-00090,2025-12-26 14:04,Reddit,PlayStation 5,"Been using PlayStation 5 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00091,2025-02-28 17:14,Reddit,Wireless Earbuds Pro,Never buying Wireless Earbuds Pro again. Customer service is a joke.,,Negative,Anger
+REC-00092,2025-11-01 23:52,Reddit,Pixel 9,"Shoutout to the team behind Pixel 9, absolute game changer! 🙌",,Positive,Joy
+REC-00093,2025-05-20 16:34,Reddit,Kindle Paperwhite,"Been using Kindle Paperwhite daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00094,2025-01-14 02:14,Amazon Reviews,Fire TV Stick 4K,"Cheap plastic, awful smell - the Fire TV Stick 4K feels disgusting to hold.",2,Negative,Disgust
+REC-00095,2025-09-23 20:28,NewsAPI,Interest Rates,Experts warn of risks in Interest Rates amid growing volatility,,Negative,Fear
+REC-00096,2025-08-29 11:26,NewsAPI,iPhone 16,Public backlash grows over controversial iPhone 16 decision,,Negative,Anger
+REC-00097,2025-05-28 21:25,Amazon Reviews,Wireless Earbuds Pro,The Wireless Earbuds Pro works as described. Packaging was standard.,3,Neutral,Neutral
+REC-00098,2025-03-01 12:55,NewsAPI,Galaxy S25,Analysts upgrade outlook on Galaxy S25 citing stable fundamentals,,Positive,Trust
+REC-00099,2025-04-07 16:23,Amazon Reviews,Echo Dot Smart Speaker,"Cheap plastic, awful smell - the Echo Dot Smart Speaker feels disgusting to hold.",1,Negative,Disgust
+REC-00100,2025-10-09 04:59,Reddit,Kindle Paperwhite,Never buying Kindle Paperwhite again. Customer service is a joke.,,Negative,Anger
+REC-00101,2025-06-09 17:00,Amazon Reviews,Stainless Steel Cookware Set,"Wow, did not expect the Stainless Steel Cookware Set to be this good at such a low price!",4,Positive,Surprise
+REC-00102,2025-03-02 20:53,Twitter/X,Tesla Model 3,Saw an ad for Tesla Model 3 today. Thoughts?,,Neutral,Neutral
+REC-00103,2025-08-30 07:29,Amazon Reviews,4K Action Camera,"Worried about privacy, the 4K Action Camera keeps sending data without asking.",2,Negative,Fear
+REC-00104,2025-05-22 13:21,Reddit,Tesla Model 3,Anyone else tried the new Tesla Model 3? Thinking about it.,,Neutral,Neutral
+REC-00105,2025-03-18 14:34,RSS Feed,Stock Market,Analysts upgrade outlook on Stock Market citing stable fundamentals,,Positive,Trust
+REC-00106,2025-04-07 22:15,Amazon Reviews,Robot Vacuum Cleaner,"Cheap plastic, awful smell - the Robot Vacuum Cleaner feels disgusting to hold.",2,Negative,Disgust
+REC-00107,2025-07-17 21:50,Twitter/X,Echo Dot Smart Speaker,"Been using Echo Dot Smart Speaker daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00108,2025-10-30 10:55,NewsAPI,Galaxy S25,Report outlines latest developments in Galaxy S25,,Neutral,Neutral
+REC-00109,2025-07-29 20:09,Amazon Reviews,Memory Foam Pillow,I've used the Memory Foam Pillow for three months now and it is still rock solid.,4,Positive,Trust
+REC-00110,2025-06-18 21:54,Amazon Reviews,Bluetooth Speaker Mini,Pleasantly surprised by how long the battery on the Bluetooth Speaker Mini lasts.,4,Positive,Surprise
+REC-00111,2025-05-01 20:43,Amazon Reviews,Robot Vacuum Cleaner,The Robot Vacuum Cleaner arrived dirty and used. Gross and unacceptable.,1,Negative,Disgust
+REC-00112,2025-08-16 05:44,NewsAPI,Climate Policy,Climate Policy sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00113,2025-07-11 13:09,Amazon Reviews,Echo Dot Smart Speaker,Best purchase this year. The Echo Dot Smart Speaker makes my day so much easier.,5,Positive,Joy
+REC-00114,2025-02-10 19:55,Amazon Reviews,Smart LED Bulbs,"Really disappointed with the Smart LED Bulbs, I had such high hopes for it.",1,Negative,Sadness
+REC-00115,2025-11-23 08:29,Amazon Reviews,Portable Power Bank,"Really disappointed with the Portable Power Bank, I had such high hopes for it.",2,Negative,Sadness
+REC-00116,2025-02-07 14:22,Amazon Reviews,Echo Dot Smart Speaker,Received the Echo Dot Smart Speaker today. Will update after more use.,3,Neutral,Neutral
+REC-00117,2025-04-12 12:54,RSS Feed,iPhone 16,Public backlash grows over controversial iPhone 16 decision,,Negative,Anger
+REC-00118,2025-12-25 09:01,Amazon Reviews,Portable Power Bank,Customer support for the Portable Power Bank was quick and genuinely helpful.,5,Positive,Trust
+REC-00119,2025-05-27 07:38,RSS Feed,Interest Rates,"Breakthrough announced in Interest Rates, experts hail major progress",,Positive,Joy
+REC-00120,2025-11-18 03:57,NewsAPI,Electric Vehicles,"Electric Vehicles suffers steep decline, thousands of jobs at risk",,Negative,Sadness
+REC-00121,2025-03-09 02:58,Twitter/X,PlayStation 5,Never buying PlayStation 5 again. Customer service is a joke.,,Negative,Anger
+REC-00122,2025-09-29 16:58,Amazon Reviews,Smart LED Bulbs,"Can't stop smiling, the Smart LED Bulbs arrived early and works perfectly.",5,Positive,Joy
+REC-00123,2025-02-28 14:04,Amazon Reviews,Smartwatch Series 5,"Reliable and well built, the Smartwatch Series 5 is a brand I'll keep buying from.",5,Positive,Trust
+REC-00124,2025-02-16 12:00,Amazon Reviews,Portable Power Bank,"It's a decent Portable Power Bank, though similar to others on the market.",3,Neutral,Neutral
+REC-00125,2025-11-23 11:06,Amazon Reviews,Wireless Earbuds Pro,Pleasantly surprised by how long the battery on the Wireless Earbuds Pro lasts.,5,Positive,Surprise
+REC-00126,2025-11-28 02:40,Reddit,iPhone 16,"Kinda bummed, my iPhone 16 died today 😢",,Negative,Sadness
+REC-00127,2025-06-05 15:07,RSS Feed,iPhone 16,iPhone 16 sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00128,2025-10-28 23:46,Amazon Reviews,Noise Cancelling Headphones,Customer support for the Noise Cancelling Headphones was quick and genuinely helpful.,5,Positive,Trust
+REC-00129,2025-01-17 22:23,Amazon Reviews,Smart LED Bulbs,"Cheap plastic, awful smell - the Smart LED Bulbs feels disgusting to hold.",2,Negative,Disgust
+REC-00130,2025-10-06 20:22,Amazon Reviews,Memory Foam Pillow,"The Memory Foam Pillow is okay. Does what it says, nothing more.",3,Neutral,Neutral
+REC-00131,2025-12-06 06:41,Amazon Reviews,Bluetooth Speaker Mini,"So happy with the Bluetooth Speaker Mini, the quality is outstanding for the price.",4,Positive,Joy
+REC-00132,2025-10-17 06:04,Twitter/X,iPhone 16,Seriously iPhone 16?? Third update this week and it's still broken 😡,,Negative,Anger
+REC-00133,2025-03-17 19:00,NewsAPI,Electric Vehicles,Officials to discuss Electric Vehicles at upcoming summit,,Neutral,Neutral
+REC-00134,2025-12-05 00:08,Amazon Reviews,Noise Cancelling Headphones,"Average Noise Cancelling Headphones. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00135,2025-01-27 04:47,Amazon Reviews,Portable Power Bank,"The Portable Power Bank is a complete waste of money, support ignored my emails.",2,Negative,Anger
+REC-00136,2025-09-20 18:06,Amazon Reviews,Wireless Earbuds Pro,"Cheap plastic, awful smell - the Wireless Earbuds Pro feels disgusting to hold.",2,Negative,Disgust
+REC-00137,2025-08-23 20:01,Amazon Reviews,Portable Power Bank,"It's a decent Portable Power Bank, though similar to others on the market.",3,Neutral,Neutral
+REC-00138,2025-12-31 14:04,Amazon Reviews,Stainless Steel Cookware Set,"The Stainless Steel Cookware Set is okay. Does what it says, nothing more.",3,Neutral,Neutral
+REC-00139,2025-07-15 19:33,RSS Feed,,Analysts upgrade outlook on AI Regulation citing stable fundamentals,,Positive,Trust
+REC-00140,2025-08-09 14:56,Amazon Reviews,Smart LED Bulbs,"Wow, did not expect the Smart LED Bulbs to be this good at such a low price!",4,Positive,Surprise
+REC-00141,2025-06-10 13:20,Amazon Reviews,Robot Vacuum Cleaner,The Robot Vacuum Cleaner works as described. Packaging was standard.,3,Neutral,Neutral
+REC-00142,2025-02-16 02:05,Reddit,Pixel 9,"Kinda bummed, my Pixel 9 died today 😢",,Negative,Sadness
+REC-00143,2025-12-10 03:26,Amazon Reviews,Air Fryer XL,"It's a decent Air Fryer XL, though similar to others on the market.",3,Neutral,Neutral
+REC-00144,2025-06-30 03:36,Amazon Reviews,Smart LED Bulbs,Received the Smart LED Bulbs today. Will update after more use.,3,Neutral,Neutral
+REC-00145,2025-10-12 11:07,Amazon Reviews,Noise Cancelling Headphones,"Really disappointed with the Noise Cancelling Headphones, I had such high hopes for it.",2,Negative,Sadness
+REC-00146,2025-01-15 05:17,Twitter/X,Echo Dot Smart Speaker,Saw an ad for Echo Dot Smart Speaker today. Thoughts?,,Neutral,Neutral
+REC-00147,2025-10-17 21:25,Reddit,MacBook Air M3,Just got my MacBook Air M3 and I'm obsessed 😍 #happy,,Positive,Joy
+REC-00148,2025-08-03 14:21,Amazon Reviews,Echo Dot Smart Speaker,"Wow, did not expect the Echo Dot Smart Speaker to be this good at such a low price!",5,Positive,Surprise
+REC-00149,2025-03-22 19:03,Amazon Reviews,4K Action Camera,Terrible experience with the 4K Action Camera. It broke after one week.,1,Negative,Anger
+REC-00150,2025-08-01 08:13,Reddit,Kindle Paperwhite,"Kinda bummed, my Kindle Paperwhite died today 😢",,Negative,Sadness
+REC-00151,2025-09-27 21:19,Twitter/X,MacBook Air M3,"Been using MacBook Air M3 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00152,2025-06-04 06:49,Amazon Reviews,Espresso Machine,"The Espresso Machine is okay. Does what it says, nothing more.",3,Neutral,Neutral
+REC-00153,2025-08-09 05:08,Amazon Reviews,Bluetooth Speaker Mini,Absolutely love the Bluetooth Speaker Mini! It exceeded every expectation I had.,5,Positive,Joy
+REC-00154,2025-01-22 13:01,Amazon Reviews,Portable Power Bank,The Portable Power Bank started smoking while charging - honestly scary.,2,Negative,Fear
+REC-00155,2025-12-30 20:26,Amazon Reviews,Fire TV Stick 4K,"It's a decent Fire TV Stick 4K, though similar to others on the market.",3,Neutral,Neutral
+REC-00156,2025-12-20 11:05,Amazon Reviews,Espresso Machine,I've used the Espresso Machine for three months now and it is still rock solid.,5,Positive,Trust
+REC-00157,2025-07-22 09:47,Amazon Reviews,Wireless Earbuds Pro,Pleasantly surprised by how long the battery on the Wireless Earbuds Pro lasts.,4,Positive,Surprise
+REC-00158,2025-06-28 11:46,Amazon Reviews,Robot Vacuum Cleaner,Terrible experience with the Robot Vacuum Cleaner. It broke after one week.,1,Negative,Anger
+REC-00159,2025-03-30 19:09,NewsAPI,Electric Vehicles,Analysts upgrade outlook on Electric Vehicles citing stable fundamentals,,Positive,Trust
+REC-00160,2025-10-16 18:28,Twitter/X,Pixel 9,Saw an ad for Pixel 9 today. Thoughts?,,Neutral,Neutral
+REC-00161,2025-08-15 20:19,Reddit,MacBook Air M3,"Shoutout to the team behind MacBook Air M3, absolute game changer! 🙌",,Positive,Joy
+REC-00162,2025-08-20 01:03,Twitter/X,MacBook Air M3,"Kinda bummed, my MacBook Air M3 died today 😢",,Negative,Sadness
+REC-00163,2025-08-25 18:35,Amazon Reviews,4K Action Camera,"Can't stop smiling, the 4K Action Camera arrived early and works perfectly.",5,Positive,Joy
+REC-00164,2025-11-06 15:32,NewsAPI,Galaxy S25,Officials to discuss Galaxy S25 at upcoming summit,,Neutral,Neutral
+REC-00165,2025-09-16 20:11,Amazon Reviews,Kindle Paperwhite,Customer support for the Kindle Paperwhite was quick and genuinely helpful.,4,Positive,Trust
+REC-00166,2025-05-25 12:26,Amazon Reviews,Memory Foam Pillow,Received the Memory Foam Pillow today. Will update after more use.,3,Neutral,Neutral
+REC-00167,2025-05-26 08:46,Twitter/X,MacBook Air M3,"Shoutout to the team behind MacBook Air M3, absolute game changer! 🙌",,Positive,Joy
+REC-00168,2025-06-08 20:44,NewsAPI,Space Exploration,"Breakthrough announced in Space Exploration, experts hail major progress",,Positive,Joy
+REC-00169,2025-10-14 12:41,Twitter/X,Wireless Earbuds Pro,Never buying Wireless Earbuds Pro again. Customer service is a joke.,,Negative,Anger
+REC-00170,2025-01-10 11:19,Twitter/X,Fire TV Stick 4K,"Been using Fire TV Stick 4K daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00171,2025-03-12 04:04,Amazon Reviews,USB-C Fast Charger,I've used the USB-C Fast Charger for three months now and it is still rock solid.,4,Positive,Trust
+REC-00172,2025-11-02 12:09,Amazon Reviews,Wireless Earbuds Pro,Furious - the Wireless Earbuds Pro stopped working right after the return window closed.,1,Negative,Anger
+REC-00173,2025-12-13 23:15,Amazon Reviews,Smartwatch Series 5,Worst product ever. The Smartwatch Series 5 overheats and the seller won't refund.,2,Negative,Anger
+REC-00174,2025-08-29 06:23,RSS Feed,Galaxy S25,"Breakthrough announced in Galaxy S25, experts hail major progress",,Positive,Joy
+REC-00175,2025-03-24 06:51,Reddit,Kindle Paperwhite,"Kinda bummed, my Kindle Paperwhite died today 😢",,Negative,Sadness
+REC-00176,2025-12-31 16:54,Reddit,iPhone 16,"Kinda bummed, my iPhone 16 died today 😢",,Negative,Sadness
+REC-00177,2025-08-12 02:58,Amazon Reviews,Fire TV Stick 4K,"Worried about privacy, the Fire TV Stick 4K keeps sending data without asking.",1,Negative,Fear
+REC-00178,2025-07-22 16:23,Amazon Reviews,Memory Foam Pillow,The Memory Foam Pillow works as described. Packaging was standard.,3,Neutral,Neutral
+REC-00179,2025-11-29 10:50,Amazon Reviews,Fire TV Stick 4K,Best purchase this year. The Fire TV Stick 4K makes my day so much easier.,4,Positive,Joy
+REC-00180,2025-12-28 15:28,Amazon Reviews,Kindle Paperwhite,Customer support for the Kindle Paperwhite was quick and genuinely helpful.,4,Positive,Trust
+REC-00181,2025-02-26 09:15,Twitter/X,iPhone 16,"Shoutout to the team behind iPhone 16, absolute game changer! 🙌",,Positive,Joy
+REC-00182,2025-02-26 15:38,Amazon Reviews,Kindle Paperwhite,Pleasantly surprised by how long the battery on the Kindle Paperwhite lasts.,4,Positive,Surprise
+REC-00183,2025-11-11 11:15,Amazon Reviews,Portable Power Bank,"Worried about privacy, the Portable Power Bank keeps sending data without asking.",1,Negative,Fear
+REC-00184,2025-09-27 17:32,Twitter/X,Galaxy S25,"Kinda bummed, my Galaxy S25 died today 😢",,Negative,Sadness
+REC-00185,2025-07-11 08:47,Twitter/X,Echo Dot Smart Speaker,Saw an ad for Echo Dot Smart Speaker today. Thoughts?,,Neutral,Neutral
+REC-00186,2025-03-10 01:22,Amazon Reviews,Fire TV Stick 4K,"Wow, did not expect the Fire TV Stick 4K to be this good at such a low price!",5,Positive,Surprise
+REC-00187,2025-03-11 02:45,Amazon Reviews,Smartwatch Series 5,The Smartwatch Series 5 works as described. Packaging was standard.,3,Neutral,Neutral
+REC-00188,2025-01-22 10:59,Reddit,iPhone 16,Just got my iPhone 16 and I'm obsessed 😍 #happy,,Positive,Joy
+REC-00189,2025-11-28 06:18,Amazon Reviews,Espresso Machine,Received the Espresso Machine today. Will update after more use.,3,Neutral,Neutral
+REC-00190,2025-07-08 13:56,Amazon Reviews,Kindle Paperwhite,Received the Kindle Paperwhite today. Will update after more use.,3,Neutral,Neutral
+REC-00191,2025-09-12 22:31,Amazon Reviews,Memory Foam Pillow,Received the Memory Foam Pillow today. Will update after more use.,3,Neutral,Neutral
+REC-00192,2025-11-05 05:34,Amazon Reviews,Bluetooth Speaker Mini,"The Bluetooth Speaker Mini is okay. Does what it says, nothing more.",3,Neutral,Neutral
+REC-00193,2025-08-17 19:45,Amazon Reviews,Wireless Earbuds Pro,Pleasantly surprised by how long the battery on the Wireless Earbuds Pro lasts.,5,Positive,Surprise
+REC-00194,2025-05-21 20:50,Amazon Reviews,Memory Foam Pillow,Best purchase this year. The Memory Foam Pillow makes my day so much easier.,5,Positive,Joy
+REC-00195,2025-03-15 19:43,NewsAPI,iPhone 16,iPhone 16 sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00196,2025-07-16 18:02,Twitter/X,Pixel 9,"Been using Pixel 9 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00197,2025-09-29 11:25,Reddit,MacBook Air M3,Just got my MacBook Air M3 and I'm obsessed 😍 #happy,,Positive,Joy
+REC-00198,2025-09-13 16:24,Amazon Reviews,Bluetooth Speaker Mini,Absolutely love the Bluetooth Speaker Mini! It exceeded every expectation I had.,4,Positive,Joy
+REC-00199,2025-04-20 19:18,NewsAPI,Interest Rates,"Interest Rates suffers steep decline, thousands of jobs at risk",,Negative,Sadness
+REC-00200,2025-03-30 22:28,Reddit,Tesla Model 3,"Shoutout to the team behind Tesla Model 3, absolute game changer! 🙌",,Positive,Joy
+REC-00201,2025-06-03 05:45,RSS Feed,Space Exploration,"Space Exploration suffers steep decline, thousands of jobs at risk",,Negative,Sadness
+REC-00202,2025-03-13 07:50,Twitter/X,MacBook Air M3,Seriously MacBook Air M3?? Third update this week and it's still broken 😡,,Negative,Anger
+REC-00203,2025-11-10 02:04,Amazon Reviews,Air Fryer XL,"Worried about privacy, the Air Fryer XL keeps sending data without asking.",1,Negative,Fear
+REC-00204,2025-06-12 20:04,Amazon Reviews,Stainless Steel Cookware Set,The Stainless Steel Cookware Set arrived dirty and used. Gross and unacceptable.,1,Negative,Disgust
+REC-00205,2025-08-10 16:58,Amazon Reviews,Air Fryer XL,"Wow, did not expect the Air Fryer XL to be this good at such a low price!",4,Positive,Surprise
+REC-00206,2025-06-15 22:14,NewsAPI,Pixel 9,Pixel 9 sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00207,2025-03-06 20:19,Amazon Reviews,4K Action Camera,"Average 4K Action Camera. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00208,2025-12-04 19:46,Twitter/X,Fire TV Stick 4K,Seriously Fire TV Stick 4K?? Third update this week and it's still broken 😡,,Negative,Anger
+REC-00209,2025-01-24 20:49,RSS Feed,Stock Market,Stock Market: what to expect in the coming week,,Neutral,Neutral
+REC-00210,2025-11-18 17:18,Twitter/X,Wireless Earbuds Pro,"Shoutout to the team behind Wireless Earbuds Pro, absolute game changer! 🙌",,Positive,Joy
+REC-00211,2025-08-21 02:44,Reddit,Kindle Paperwhite,"Been using Kindle Paperwhite daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00212,2025-11-07 04:20,Amazon Reviews,Memory Foam Pillow,I've used the Memory Foam Pillow for three months now and it is still rock solid.,5,Positive,Trust
+REC-00213,2025-09-21 17:06,RSS Feed,Space Exploration,Officials to discuss Space Exploration at upcoming summit,,Neutral,Neutral
+REC-00214,2025-02-19 01:18,Amazon Reviews,Memory Foam Pillow,I've used the Memory Foam Pillow for three months now and it is still rock solid.,4,Positive,Trust
+REC-00215,2025-10-23 23:20,RSS Feed,Electric Vehicles,Officials to discuss Electric Vehicles at upcoming summit,,Neutral,Neutral
+REC-00216,2025-09-12 00:05,Amazon Reviews,Smartwatch Series 5,"Cheap plastic, awful smell - the Smartwatch Series 5 feels disgusting to hold.",2,Negative,Disgust
+REC-00217,2025-01-26 09:31,RSS Feed,Electric Vehicles,Analysts upgrade outlook on Electric Vehicles citing stable fundamentals,,Positive,Trust
+REC-00218,2025-03-10 08:46,Reddit,PlayStation 5,Never buying PlayStation 5 again. Customer service is a joke.,,Negative,Anger
+REC-00219,2025-07-05 17:18,Amazon Reviews,Espresso Machine,I've used the Espresso Machine for three months now and it is still rock solid.,4,Positive,Trust
+REC-00220,2025-02-19 12:23,Amazon Reviews,,The Memory Foam Pillow started smoking while charging - honestly scary.,1,Negative,Fear
+REC-00221,2025-11-05 16:25,Reddit,Fire TV Stick 4K,Anyone else tried the new Fire TV Stick 4K? Thinking about it.,,Neutral,Neutral
+REC-00222,2025-09-23 14:09,Amazon Reviews,Kindle Paperwhite,Pleasantly surprised by how long the battery on the Kindle Paperwhite lasts.,5,Positive,Surprise
+REC-00223,2025-07-21 19:47,Twitter/X,MacBook Air M3,Anyone else tried the new MacBook Air M3? Thinking about it.,,Neutral,Neutral
+REC-00224,2025-10-16 09:30,RSS Feed,Pixel 9,Report outlines latest developments in Pixel 9,,Neutral,Neutral
+REC-00225,2025-12-19 20:01,RSS Feed,Space Exploration,Public backlash grows over controversial Space Exploration decision,,Negative,Anger
+REC-00226,2025-03-29 16:40,Reddit,Wireless Earbuds Pro,Never buying Wireless Earbuds Pro again. Customer service is a joke.,,Negative,Anger
+REC-00227,2025-10-21 22:07,Reddit,Pixel 9,Anyone else tried the new Pixel 9? Thinking about it.,,Neutral,Neutral
+REC-00228,2025-07-30 16:49,Amazon Reviews,,"So happy with the Memory Foam Pillow, the quality is outstanding for the price.",4,Positive,Joy
+REC-00229,2025-12-06 15:33,Reddit,iPhone 16,Never buying iPhone 16 again. Customer service is a joke.,,Negative,Anger
+REC-00230,2025-12-13 23:43,Amazon Reviews,Smartwatch Series 5,Pleasantly surprised by how long the battery on the Smartwatch Series 5 lasts.,5,Positive,Surprise
+REC-00231,2025-10-13 09:14,Reddit,Wireless Earbuds Pro,Never buying Wireless Earbuds Pro again. Customer service is a joke.,,Negative,Anger
+REC-00232,2025-06-12 15:22,RSS Feed,Interest Rates,"Interest Rates suffers steep decline, thousands of jobs at risk",,Negative,Sadness
+REC-00233,2025-06-26 04:18,Reddit,PlayStation 5,"Been using PlayStation 5 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00234,2025-09-03 06:12,Amazon Reviews,Fire TV Stick 4K,Customer support for the Fire TV Stick 4K was quick and genuinely helpful.,5,Positive,Trust
+REC-00235,2025-11-12 23:37,RSS Feed,Pixel 9,Concerns mount over Pixel 9 as uncertainty grips markets,,Negative,Fear
+REC-00236,2025-01-27 03:26,Amazon Reviews,Kindle Paperwhite,Unfortunately the Kindle Paperwhite stopped charging. Such a letdown.,1,Negative,Sadness
+REC-00237,2025-07-28 20:59,Amazon Reviews,Stainless Steel Cookware Set,Absolutely love the Stainless Steel Cookware Set! It exceeded every expectation I had.,4,Positive,Joy
+REC-00238,2025-05-27 20:03,RSS Feed,Galaxy S25,Public backlash grows over controversial Galaxy S25 decision,,Negative,Anger
+REC-00239,2025-03-31 13:56,NewsAPI,Electric Vehicles,"Electric Vehicles suffers steep decline, thousands of jobs at risk",,Negative,Sadness
+REC-00240,2025-01-20 00:19,NewsAPI,iPhone 16,Experts warn of risks in iPhone 16 amid growing volatility,,Negative,Fear
+REC-00241,2025-09-16 14:17,Twitter/X,MacBook Air M3,"Been using MacBook Air M3 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00242,2025-04-06 00:47,Amazon Reviews,Wireless Earbuds Pro,Pleasantly surprised by how long the battery on the Wireless Earbuds Pro lasts.,5,Positive,Surprise
+REC-00243,2025-08-07 16:20,Amazon Reviews,4K Action Camera,"Really disappointed with the 4K Action Camera, I had such high hopes for it.",2,Negative,Sadness
+REC-00244,2025-05-08 00:16,Amazon Reviews,Wireless Earbuds Pro,"So happy with the Wireless Earbuds Pro, the quality is outstanding for the price.",5,Positive,Joy
+REC-00245,2025-05-14 20:23,Amazon Reviews,Memory Foam Pillow,"Worried about privacy, the Memory Foam Pillow keeps sending data without asking.",1,Negative,Fear
+REC-00246,2025-12-18 16:59,Twitter/X,Galaxy S25,"Shoutout to the team behind Galaxy S25, absolute game changer! 🙌",,Positive,Joy
+REC-00247,2025-11-11 07:14,RSS Feed,Climate Policy,Public backlash grows over controversial Climate Policy decision,,Negative,Anger
+REC-00248,2025-12-26 17:58,RSS Feed,AI Regulation,Analysts upgrade outlook on AI Regulation citing stable fundamentals,,Positive,Trust
+REC-00249,2025-02-09 18:07,Amazon Reviews,USB-C Fast Charger,Worst product ever. The USB-C Fast Charger overheats and the seller won't refund.,2,Negative,Anger
+REC-00250,2025-09-24 14:07,Amazon Reviews,USB-C Fast Charger,"Really disappointed with the USB-C Fast Charger, I had such high hopes for it.",2,Negative,Sadness
+REC-00251,2025-08-21 04:32,Reddit,Galaxy S25,Anyone else tried the new Galaxy S25? Thinking about it.,,Neutral,Neutral
+REC-00252,2025-05-11 00:47,Amazon Reviews,Kindle Paperwhite,The Kindle Paperwhite started smoking while charging - honestly scary.,2,Negative,Fear
+REC-00253,2025-10-05 01:59,Amazon Reviews,Fire TV Stick 4K,Customer support for the Fire TV Stick 4K was quick and genuinely helpful.,4,Positive,Trust
+REC-00254,2025-11-25 23:41,RSS Feed,Stock Market,Stock Market sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00255,2025-02-11 21:42,RSS Feed,iPhone 16,Analysts upgrade outlook on iPhone 16 citing stable fundamentals,,Positive,Trust
+REC-00256,2025-04-25 00:48,NewsAPI,Space Exploration,Analysts upgrade outlook on Space Exploration citing stable fundamentals,,Positive,Trust
+REC-00257,2025-04-28 07:29,Amazon Reviews,4K Action Camera,Pleasantly surprised by how long the battery on the 4K Action Camera lasts.,5,Positive,Surprise
+REC-00258,2025-12-05 13:39,Amazon Reviews,Bluetooth Speaker Mini,"Wow, did not expect the Bluetooth Speaker Mini to be this good at such a low price!",4,Positive,Surprise
+REC-00259,2025-08-17 19:43,Twitter/X,Tesla Model 3,Just got my Tesla Model 3 and I'm obsessed 😍 #happy,,Positive,Joy
+REC-00260,2025-04-30 17:13,Twitter/X,Tesla Model 3,"Kinda bummed, my Tesla Model 3 died today 😢",,Negative,Sadness
+REC-00261,2025-10-22 10:36,Twitter/X,Pixel 9,"Kinda bummed, my Pixel 9 died today 😢",,Negative,Sadness
+REC-00262,2025-07-31 09:17,Reddit,Tesla Model 3,Just got my Tesla Model 3 and I'm obsessed 😍 #happy,,Positive,Joy
+REC-00263,2025-06-26 20:42,Amazon Reviews,Smartwatch Series 5,"Cheap plastic, awful smell - the Smartwatch Series 5 feels disgusting to hold.",1,Negative,Disgust
+REC-00264,2025-07-12 05:48,Amazon Reviews,Robot Vacuum Cleaner,The Robot Vacuum Cleaner arrived dirty and used. Gross and unacceptable.,2,Negative,Disgust
+REC-00265,2025-01-30 17:26,Amazon Reviews,Portable Power Bank,"Average Portable Power Bank. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00266,2025-11-28 02:59,NewsAPI,iPhone 16,"Breakthrough announced in iPhone 16, experts hail major progress",,Positive,Joy
+REC-00267,2025-05-18 12:43,Amazon Reviews,Air Fryer XL,"Wow, did not expect the Air Fryer XL to be this good at such a low price!",4,Positive,Surprise
+REC-00268,2025-04-17 10:19,Twitter/X,Galaxy S25,"Shoutout to the team behind Galaxy S25, absolute game changer! 🙌",,Positive,Joy
+REC-00269,2025-09-03 07:44,NewsAPI,Electric Vehicles,Report outlines latest developments in Electric Vehicles,,Neutral,Neutral
+REC-00270,2025-07-14 14:34,Twitter/X,Echo Dot Smart Speaker,Saw an ad for Echo Dot Smart Speaker today. Thoughts?,,Neutral,Neutral
+REC-00271,2025-02-20 23:30,Reddit,PlayStation 5,"Been using PlayStation 5 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00272,2025-10-16 07:47,Reddit,Tesla Model 3,"Been using Tesla Model 3 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00273,2025-04-11 10:14,Amazon Reviews,Bluetooth Speaker Mini,"Cheap plastic, awful smell - the Bluetooth Speaker Mini feels disgusting to hold.",1,Negative,Disgust
+REC-00274,2025-11-25 23:31,Amazon Reviews,Portable Power Bank,"Worried about privacy, the Portable Power Bank keeps sending data without asking.",2,Negative,Fear
+REC-00275,2025-10-05 20:03,Amazon Reviews,Air Fryer XL,Pleasantly surprised by how long the battery on the Air Fryer XL lasts.,4,Positive,Surprise
+REC-00276,2025-03-12 20:14,Amazon Reviews,Fire TV Stick 4K,"The Fire TV Stick 4K is okay. Does what it says, nothing more.",3,Neutral,Neutral
+REC-00277,2025-01-31 19:40,Amazon Reviews,Noise Cancelling Headphones,Pleasantly surprised by how long the battery on the Noise Cancelling Headphones lasts.,5,Positive,Surprise
+REC-00278,2025-01-09 16:46,Reddit,Kindle Paperwhite,"Been using Kindle Paperwhite daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00279,2025-02-24 03:33,Amazon Reviews,4K Action Camera,Pleasantly surprised by how long the battery on the 4K Action Camera lasts.,4,Positive,Surprise
+REC-00280,2025-07-23 02:23,Amazon Reviews,USB-C Fast Charger,"Worried about privacy, the USB-C Fast Charger keeps sending data without asking.",2,Negative,Fear
+REC-00281,2025-12-17 02:41,RSS Feed,Electric Vehicles,Officials to discuss Electric Vehicles at upcoming summit,,Neutral,Neutral
+REC-00282,2025-01-29 20:00,NewsAPI,Climate Policy,Analysts upgrade outlook on Climate Policy citing stable fundamentals,,Positive,Trust
+REC-00283,2025-09-28 01:14,Twitter/X,Kindle Paperwhite,,,Neutral,Neutral
+REC-00284,2025-04-02 10:01,Amazon Reviews,Stainless Steel Cookware Set,Best purchase this year. The Stainless Steel Cookware Set makes my day so much easier.,4,Positive,Joy
+REC-00285,2025-10-16 07:36,NewsAPI,iPhone 16,iPhone 16: what to expect in the coming week,,Neutral,Neutral
+REC-00286,2025-09-14 23:22,RSS Feed,Pixel 9,Pixel 9 sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00287,2025-06-17 00:40,Amazon Reviews,Smart LED Bulbs,Best purchase this year. The Smart LED Bulbs makes my day so much easier.,5,Positive,Joy
+REC-00288,2025-04-06 21:37,Amazon Reviews,Memory Foam Pillow,"Worried about privacy, the Memory Foam Pillow keeps sending data without asking.",2,Negative,Fear
+REC-00289,2025-02-12 08:09,Twitter/X,Wireless Earbuds Pro,Just got my Wireless Earbuds Pro and I'm obsessed 😍 #happy,,Positive,Joy
+REC-00290,2025-02-16 00:19,Amazon Reviews,Noise Cancelling Headphones,"Worried about privacy, the Noise Cancelling Headphones keeps sending data without asking.",1,Negative,Fear
+REC-00291,2025-08-18 17:35,Amazon Reviews,Bluetooth Speaker Mini,The Bluetooth Speaker Mini is fantastic - setup took two minutes and it just works.,5,Positive,Joy
+REC-00292,2025-11-02 19:50,Amazon Reviews,Wireless Earbuds Pro,Customer support for the Wireless Earbuds Pro was quick and genuinely helpful.,4,Positive,Trust
+REC-00293,2025-10-14 07:36,Amazon Reviews,Espresso Machine,"Reliable and well built, the Espresso Machine is a brand I'll keep buying from.",4,Positive,Trust
+REC-00294,2025-09-10 04:04,Amazon Reviews,Espresso Machine,"Reliable and well built, the Espresso Machine is a brand I'll keep buying from.",5,Positive,Trust
+REC-00295,2025-05-09 07:46,Amazon Reviews,Bluetooth Speaker Mini,I've used the Bluetooth Speaker Mini for three months now and it is still rock solid.,5,Positive,Trust
+REC-00296,2025-07-22 10:53,Twitter/X,Kindle Paperwhite,"Been using Kindle Paperwhite daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00297,2025-06-14 19:44,Reddit,Kindle Paperwhite,"Shoutout to the team behind Kindle Paperwhite, absolute game changer! 🙌",,Positive,Joy
+REC-00298,2025-12-22 20:31,Amazon Reviews,Robot Vacuum Cleaner,"Reliable and well built, the Robot Vacuum Cleaner is a brand I'll keep buying from.",5,Positive,Trust
+REC-00299,2025-02-28 18:12,NewsAPI,Space Exploration,Analysts upgrade outlook on Space Exploration citing stable fundamentals,,Positive,Trust
+REC-00300,2025-08-13 09:53,Twitter/X,Fire TV Stick 4K,"Been using Fire TV Stick 4K daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00301,2025-05-10 21:09,Reddit,Kindle Paperwhite,"Been using Kindle Paperwhite daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00302,2025-10-01 16:59,Reddit,Galaxy S25,"Been using Galaxy S25 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00303,2025-02-25 07:42,RSS Feed,Pixel 9,Analysts upgrade outlook on Pixel 9 citing stable fundamentals,,Positive,Trust
+REC-00304,2025-08-09 03:00,Twitter/X,Wireless Earbuds Pro,"Been using Wireless Earbuds Pro daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00305,2025-07-20 14:49,Amazon Reviews,Portable Power Bank,Sadly the Portable Power Bank didn't live up to the reviews. Returning it.,2,Negative,Sadness
+REC-00306,2025-06-01 13:58,Twitter/X,MacBook Air M3,Anyone else tried the new MacBook Air M3? Thinking about it.,,Neutral,Neutral
+REC-00307,2025-04-16 16:30,NewsAPI,AI Regulation,Analysts upgrade outlook on AI Regulation citing stable fundamentals,,Positive,Trust
+REC-00308,2025-02-04 09:02,Amazon Reviews,,Pleasantly surprised by how long the battery on the Wireless Earbuds Pro lasts.,5,Positive,Surprise
+REC-00309,2025-03-26 23:15,NewsAPI,Stock Market,Report outlines latest developments in Stock Market,,Neutral,Neutral
+REC-00310,2025-07-27 20:11,Amazon Reviews,,"Reliable and well built, the Smartwatch Series 5 is a brand I'll keep buying from.",4,Positive,Trust
+REC-00311,2025-10-31 13:24,Amazon Reviews,Smart LED Bulbs,"Wow, did not expect the Smart LED Bulbs to be this good at such a low price!",5,Positive,Surprise
+REC-00312,2025-10-02 05:23,Amazon Reviews,USB-C Fast Charger,"Wow, did not expect the USB-C Fast Charger to be this good at such a low price!",4,Positive,Surprise
+REC-00313,2025-11-02 12:39,Amazon Reviews,Memory Foam Pillow,Pleasantly surprised by how long the battery on the Memory Foam Pillow lasts.,5,Positive,Surprise
+REC-00314,2025-12-11 22:51,Amazon Reviews,Wireless Earbuds Pro,Customer support for the Wireless Earbuds Pro was quick and genuinely helpful.,4,Positive,Trust
+REC-00315,2025-06-06 03:11,Amazon Reviews,Fire TV Stick 4K,The Fire TV Stick 4K started smoking while charging - honestly scary.,1,Negative,Fear
+REC-00316,2025-08-05 05:31,Amazon Reviews,Noise Cancelling Headphones,The Noise Cancelling Headphones arrived dirty and used. Gross and unacceptable.,2,Negative,Disgust
+REC-00317,2025-04-06 10:53,Twitter/X,Fire TV Stick 4K,"Been using Fire TV Stick 4K daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00318,2025-04-10 12:35,Amazon Reviews,Kindle Paperwhite,The Kindle Paperwhite works as described. Packaging was standard.,3,Neutral,Neutral
+REC-00319,2025-09-08 05:05,Amazon Reviews,Stainless Steel Cookware Set,"Reliable and well built, the Stainless Steel Cookware Set is a brand I'll keep buying from.",5,Positive,Trust
+REC-00320,2025-03-28 14:36,Twitter/X,PlayStation 5,"Shoutout to the team behind PlayStation 5, absolute game changer! 🙌",,Positive,Joy
+REC-00321,2025-10-06 11:34,Reddit,Fire TV Stick 4K,Never buying Fire TV Stick 4K again. Customer service is a joke.,,Negative,Anger
+REC-00322,2025-12-01 07:19,NewsAPI,Galaxy S25,Public backlash grows over controversial Galaxy S25 decision,,Negative,Anger
+REC-00323,2025-03-02 07:13,NewsAPI,,"Breakthrough announced in Galaxy S25, experts hail major progress",,Positive,Joy
+REC-00324,2025-04-16 01:36,RSS Feed,iPhone 16,iPhone 16 sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00325,2025-05-29 18:17,Amazon Reviews,Bluetooth Speaker Mini,Sadly the Bluetooth Speaker Mini didn't live up to the reviews. Returning it.,2,Negative,Sadness
+REC-00326,2025-05-22 20:08,NewsAPI,AI Regulation,AI Regulation: what to expect in the coming week,,Neutral,Neutral
+REC-00327,2025-12-13 12:31,Twitter/X,Tesla Model 3,"Been using Tesla Model 3 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00328,2025-11-21 02:25,Amazon Reviews,Bluetooth Speaker Mini,"Cheap plastic, awful smell - the Bluetooth Speaker Mini feels disgusting to hold.",1,Negative,Disgust
+REC-00329,2025-06-17 18:00,Amazon Reviews,Bluetooth Speaker Mini,"Worried about privacy, the Bluetooth Speaker Mini keeps sending data without asking.",2,Negative,Fear
+REC-00330,2025-02-02 17:25,NewsAPI,Galaxy S25,"Galaxy S25 suffers steep decline, thousands of jobs at risk",,Negative,Sadness
+REC-00331,2025-05-26 10:35,Amazon Reviews,Smart LED Bulbs,Received the Smart LED Bulbs today. Will update after more use.,3,Neutral,Neutral
+REC-00332,2025-02-20 20:50,Reddit,MacBook Air M3,Anyone else tried the new MacBook Air M3? Thinking about it.,,Neutral,Neutral
+REC-00333,2025-08-22 00:27,NewsAPI,Climate Policy,Officials to discuss Climate Policy at upcoming summit,,Neutral,Neutral
+REC-00334,2025-02-17 20:23,Amazon Reviews,Noise Cancelling Headphones,"Average Noise Cancelling Headphones. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00335,2025-11-17 09:46,Amazon Reviews,Air Fryer XL,"Really disappointed with the Air Fryer XL, I had such high hopes for it.",2,Negative,Sadness
+REC-00336,2025-04-20 15:04,Twitter/X,Echo Dot Smart Speaker,Seriously Echo Dot Smart Speaker?? Third update this week and it's still broken 😡,,Negative,Anger
+REC-00337,2025-12-23 10:52,Amazon Reviews,Portable Power Bank,The Portable Power Bank arrived dirty and used. Gross and unacceptable.,1,Negative,Disgust
+REC-00338,2025-07-16 02:46,Amazon Reviews,Smart LED Bulbs,The Smart LED Bulbs arrived dirty and used. Gross and unacceptable.,1,Negative,Disgust
+REC-00339,2025-07-15 04:41,NewsAPI,Space Exploration,Analysts upgrade outlook on Space Exploration citing stable fundamentals,,Positive,Trust
+REC-00340,2025-08-14 11:46,NewsAPI,Climate Policy,Concerns mount over Climate Policy as uncertainty grips markets,,Negative,Fear
+REC-00341,2025-02-21 04:48,Amazon Reviews,Noise Cancelling Headphones,"Average Noise Cancelling Headphones. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00342,2025-05-07 08:41,Amazon Reviews,Espresso Machine,"Reliable and well built, the Espresso Machine is a brand I'll keep buying from.",4,Positive,Trust
+REC-00343,2025-09-23 19:32,Amazon Reviews,4K Action Camera,Furious - the 4K Action Camera stopped working right after the return window closed.,1,Negative,Anger
+REC-00344,2025-07-17 03:15,Amazon Reviews,Espresso Machine,The Espresso Machine is fantastic - setup took two minutes and it just works.,5,Positive,Joy
+REC-00345,2025-03-09 12:55,Amazon Reviews,Fire TV Stick 4K,Furious - the Fire TV Stick 4K stopped working right after the return window closed.,2,Negative,Anger
+REC-00346,2025-02-07 00:37,RSS Feed,Space Exploration,Experts warn of risks in Space Exploration amid growing volatility,,Negative,Fear
+REC-00347,2025-11-18 22:32,Amazon Reviews,Bluetooth Speaker Mini,"So happy with the Bluetooth Speaker Mini, the quality is outstanding for the price.",5,Positive,Joy
+REC-00348,2025-02-12 09:05,Reddit,Echo Dot Smart Speaker,"Shoutout to the team behind Echo Dot Smart Speaker, absolute game changer! 🙌",,Positive,Joy
+REC-00349,2025-07-20 18:40,Amazon Reviews,USB-C Fast Charger,"It's a decent USB-C Fast Charger, though similar to others on the market.",3,Neutral,Neutral
+REC-00350,2025-05-06 02:59,Twitter/X,PlayStation 5,Seriously PlayStation 5?? Third update this week and it's still broken 😡,,Negative,Anger
+REC-00351,2025-03-03 00:45,Amazon Reviews,Memory Foam Pillow,Furious - the Memory Foam Pillow stopped working right after the return window closed.,1,Negative,Anger
+REC-00352,2025-03-27 11:08,Amazon Reviews,Echo Dot Smart Speaker,Customer support for the Echo Dot Smart Speaker was quick and genuinely helpful.,5,Positive,Trust
+REC-00353,2025-08-08 08:33,Reddit,Galaxy S25,Never buying Galaxy S25 again. Customer service is a joke.,,Negative,Anger
+REC-00354,2025-10-18 05:23,Amazon Reviews,Fire TV Stick 4K,The Fire TV Stick 4K started smoking while charging - honestly scary.,2,Negative,Fear
+REC-00355,2025-01-23 00:15,Amazon Reviews,Wireless Earbuds Pro,"Average Wireless Earbuds Pro. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00356,2025-10-11 22:47,Amazon Reviews,Air Fryer XL,The Air Fryer XL is fantastic - setup took two minutes and it just works.,4,Positive,Joy
+REC-00357,2025-02-09 18:23,Twitter/X,MacBook Air M3,"Been using MacBook Air M3 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00358,2025-02-05 14:55,Amazon Reviews,Kindle Paperwhite,"Wow, did not expect the Kindle Paperwhite to be this good at such a low price!",5,Positive,Surprise
+REC-00359,2025-07-08 06:18,Amazon Reviews,4K Action Camera,Pleasantly surprised by how long the battery on the 4K Action Camera lasts.,4,Positive,Surprise
+REC-00360,2025-04-11 23:57,Reddit,Wireless Earbuds Pro,"Been using Wireless Earbuds Pro daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00361,2025-10-05 11:40,Amazon Reviews,Portable Power Bank,I've used the Portable Power Bank for three months now and it is still rock solid.,4,Positive,Trust
+REC-00362,2025-02-23 06:33,NewsAPI,Space Exploration,Analysts upgrade outlook on Space Exploration citing stable fundamentals,,Positive,Trust
+REC-00363,2025-05-24 02:02,RSS Feed,Galaxy S25,Report outlines latest developments in Galaxy S25,,Neutral,Neutral
+REC-00364,2025-09-16 04:40,RSS Feed,Space Exploration,Space Exploration sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00365,2025-05-30 08:54,NewsAPI,Stock Market,Stock Market sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00366,2025-05-20 07:04,Amazon Reviews,Espresso Machine,"Worried about privacy, the Espresso Machine keeps sending data without asking.",2,Negative,Fear
+REC-00367,2025-08-27 10:26,NewsAPI,Climate Policy,"Breakthrough announced in Climate Policy, experts hail major progress",,Positive,Joy
+REC-00368,2025-08-26 08:54,Amazon Reviews,Air Fryer XL,The Air Fryer XL works as described. Packaging was standard.,3,Neutral,Neutral
+REC-00369,2025-04-21 10:09,Amazon Reviews,Smartwatch Series 5,"It's a decent Smartwatch Series 5, though similar to others on the market.",3,Neutral,Neutral
+REC-00370,2025-12-13 09:16,Amazon Reviews,Portable Power Bank,"It's a decent Portable Power Bank, though similar to others on the market.",3,Neutral,Neutral
+REC-00371,2025-10-09 07:06,NewsAPI,Stock Market,Report outlines latest developments in Stock Market,,Neutral,Neutral
+REC-00372,2025-04-12 12:23,Amazon Reviews,Noise Cancelling Headphones,The Noise Cancelling Headphones is fantastic - setup took two minutes and it just works.,4,Positive,Joy
+REC-00373,2025-02-03 06:57,Twitter/X,Wireless Earbuds Pro,Seriously Wireless Earbuds Pro?? Third update this week and it's still broken 😡,,Negative,Anger
+REC-00374,2025-01-22 14:03,Twitter/X,Galaxy S25,Anyone else tried the new Galaxy S25? Thinking about it.,,Neutral,Neutral
+REC-00375,2025-07-15 21:27,Amazon Reviews,Smart LED Bulbs,The Smart LED Bulbs works as described. Packaging was standard.,3,Neutral,Neutral
+REC-00376,2025-03-18 01:39,Amazon Reviews,USB-C Fast Charger,Received the USB-C Fast Charger today. Will update after more use.,3,Neutral,Neutral
+REC-00377,2025-02-14 08:24,Twitter/X,PlayStation 5,"Kinda bummed, my PlayStation 5 died today 😢",,Negative,Sadness
+REC-00378,2025-07-15 22:22,Amazon Reviews,USB-C Fast Charger,Unfortunately the USB-C Fast Charger stopped charging. Such a letdown.,1,Negative,Sadness
+REC-00379,2025-05-19 05:01,Amazon Reviews,Stainless Steel Cookware Set,Pleasantly surprised by how long the battery on the Stainless Steel Cookware Set lasts.,5,Positive,Surprise
+REC-00380,2025-09-29 11:49,Amazon Reviews,Portable Power Bank,I've used the Portable Power Bank for three months now and it is still rock solid.,5,Positive,Trust
+REC-00381,2025-10-01 23:03,Twitter/X,Pixel 9,"Shoutout to the team behind Pixel 9, absolute game changer! 🙌",,Positive,Joy
+REC-00382,2025-03-30 05:15,Twitter/X,Wireless Earbuds Pro,Saw an ad for Wireless Earbuds Pro today. Thoughts?,,Neutral,Neutral
+REC-00383,2025-10-16 06:53,Reddit,Wireless Earbuds Pro,"Been using Wireless Earbuds Pro daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00384,2025-02-16 01:14,RSS Feed,Pixel 9,Analysts upgrade outlook on Pixel 9 citing stable fundamentals,,Positive,Trust
+REC-00385,2025-03-08 10:45,Twitter/X,Fire TV Stick 4K,"Been using Fire TV Stick 4K daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00386,2025-02-26 16:55,Amazon Reviews,Robot Vacuum Cleaner,"Can't stop smiling, the Robot Vacuum Cleaner arrived early and works perfectly.",4,Positive,Joy
+REC-00387,2025-06-22 09:20,Amazon Reviews,Fire TV Stick 4K,Pleasantly surprised by how long the battery on the Fire TV Stick 4K lasts.,4,Positive,Surprise
+REC-00388,2025-03-31 22:35,Amazon Reviews,Smartwatch Series 5,"Cheap plastic, awful smell - the Smartwatch Series 5 feels disgusting to hold.",2,Negative,Disgust
+REC-00389,2025-06-07 23:44,Reddit,Tesla Model 3,Never buying Tesla Model 3 again. Customer service is a joke.,,Negative,Anger
+REC-00390,2025-11-05 10:58,Amazon Reviews,Smartwatch Series 5,The Smartwatch Series 5 arrived dirty and used. Gross and unacceptable.,1,Negative,Disgust
+REC-00391,2025-02-09 07:22,NewsAPI,Climate Policy,Officials to discuss Climate Policy at upcoming summit,,Neutral,Neutral
+REC-00392,2025-01-06 08:13,NewsAPI,Climate Policy,Officials to discuss Climate Policy at upcoming summit,,Neutral,Neutral
+REC-00393,2025-07-17 14:46,Amazon Reviews,Fire TV Stick 4K,Absolutely love the Fire TV Stick 4K! It exceeded every expectation I had.,4,Positive,Joy
+REC-00394,2025-10-07 12:06,Amazon Reviews,Smartwatch Series 5,The Smartwatch Series 5 works as described. Packaging was standard.,3,Neutral,Neutral
+REC-00395,2025-01-11 10:16,NewsAPI,AI Regulation,"Breakthrough announced in AI Regulation, experts hail major progress",,Positive,Joy
+REC-00396,2025-02-08 17:57,NewsAPI,Space Exploration,Analysts upgrade outlook on Space Exploration citing stable fundamentals,,Positive,Trust
+REC-00397,2025-11-07 13:10,RSS Feed,Galaxy S25,Public backlash grows over controversial Galaxy S25 decision,,Negative,Anger
+REC-00398,2025-12-05 09:19,Amazon Reviews,Robot Vacuum Cleaner,"So happy with the Robot Vacuum Cleaner, the quality is outstanding for the price.",5,Positive,Joy
+REC-00399,2025-01-28 11:00,Amazon Reviews,Kindle Paperwhite,Pleasantly surprised by how long the battery on the Kindle Paperwhite lasts.,4,Positive,Surprise
+REC-00400,2025-01-14 06:10,Amazon Reviews,4K Action Camera,"Average 4K Action Camera. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00401,2025-08-30 15:57,Twitter/X,Kindle Paperwhite,Saw an ad for Kindle Paperwhite today. Thoughts?,,Neutral,Neutral
+REC-00402,2025-07-09 05:28,Twitter/X,Fire TV Stick 4K,"Been using Fire TV Stick 4K daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00403,2025-03-19 22:42,Amazon Reviews,Memory Foam Pillow,Best purchase this year. The Memory Foam Pillow makes my day so much easier.,4,Positive,Joy
+REC-00404,2025-10-11 01:53,Amazon Reviews,Air Fryer XL,"It's a decent Air Fryer XL, though similar to others on the market.",3,Neutral,Neutral
+REC-00405,2025-09-01 09:05,Amazon Reviews,Smart LED Bulbs,"It's a decent Smart LED Bulbs, though similar to others on the market.",3,Neutral,Neutral
+REC-00406,2025-03-30 05:13,Amazon Reviews,Kindle Paperwhite,"Really disappointed with the Kindle Paperwhite, I had such high hopes for it.",2,Negative,Sadness
+REC-00407,2025-11-18 04:53,NewsAPI,Stock Market,Analysts upgrade outlook on Stock Market citing stable fundamentals,,Positive,Trust
+REC-00408,2025-05-22 16:29,Reddit,Galaxy S25,"Been using Galaxy S25 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00409,2025-03-18 04:36,NewsAPI,Pixel 9,Experts warn of risks in Pixel 9 amid growing volatility,,Negative,Fear
+REC-00410,2025-10-02 11:56,Twitter/X,Galaxy S25,Never buying Galaxy S25 again. Customer service is a joke.,,Negative,Anger
+REC-00411,2025-05-22 12:09,Amazon Reviews,Espresso Machine,The Espresso Machine arrived dirty and used. Gross and unacceptable.,1,Negative,Disgust
+REC-00412,2025-01-26 23:30,Reddit,iPhone 16,"Been using iPhone 16 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00413,2025-05-24 15:54,RSS Feed,Stock Market,Analysts upgrade outlook on Stock Market citing stable fundamentals,,Positive,Trust
+REC-00414,2025-05-18 23:26,Twitter/X,Tesla Model 3,"Been using Tesla Model 3 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00415,2025-09-22 11:52,Twitter/X,Tesla Model 3,"Been using Tesla Model 3 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00416,2025-09-26 18:01,Amazon Reviews,Smartwatch Series 5,Pleasantly surprised by how long the battery on the Smartwatch Series 5 lasts.,4,Positive,Surprise
+REC-00417,2025-01-26 11:45,Amazon Reviews,USB-C Fast Charger,"The USB-C Fast Charger is okay. Does what it says, nothing more.",3,Neutral,Neutral
+REC-00418,2025-05-04 11:31,Amazon Reviews,Air Fryer XL,"The Air Fryer XL is okay. Does what it says, nothing more.",3,Neutral,Neutral
+REC-00419,2025-03-25 08:47,Twitter/X,Kindle Paperwhite,"Kinda bummed, my Kindle Paperwhite died today 😢",,Negative,Sadness
+REC-00420,2025-10-20 06:54,NewsAPI,Interest Rates,Interest Rates sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00421,2025-12-16 00:30,Amazon Reviews,Portable Power Bank,"Worried about privacy, the Portable Power Bank keeps sending data without asking.",1,Negative,Fear
+REC-00422,2025-08-05 12:54,NewsAPI,Stock Market,Analysts upgrade outlook on Stock Market citing stable fundamentals,,Positive,Trust
+REC-00423,2025-10-27 03:00,Amazon Reviews,Bluetooth Speaker Mini,Customer support for the Bluetooth Speaker Mini was quick and genuinely helpful.,5,Positive,Trust
+REC-00424,2025-09-04 02:21,Amazon Reviews,Air Fryer XL,"Worried about privacy, the Air Fryer XL keeps sending data without asking.",1,Negative,Fear
+REC-00425,2025-03-18 16:48,RSS Feed,Interest Rates,Analysts upgrade outlook on Interest Rates citing stable fundamentals,,Positive,Trust
+REC-00426,2025-01-14 20:31,Amazon Reviews,Kindle Paperwhite,Received the Kindle Paperwhite today. Will update after more use.,3,Neutral,Neutral
+REC-00427,2025-06-25 23:45,RSS Feed,iPhone 16,iPhone 16 sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00428,2025-03-29 21:56,Amazon Reviews,Stainless Steel Cookware Set,"It's a decent Stainless Steel Cookware Set, though similar to others on the market.",3,Neutral,Neutral
+REC-00429,2025-12-15 10:41,Reddit,Galaxy S25,"Been using Galaxy S25 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00430,2025-07-10 08:37,Amazon Reviews,Air Fryer XL,"Reliable and well built, the Air Fryer XL is a brand I'll keep buying from.",5,Positive,Trust
+REC-00431,2025-04-10 16:07,Amazon Reviews,Wireless Earbuds Pro,"Wow, did not expect the Wireless Earbuds Pro to be this good at such a low price!",5,Positive,Surprise
+REC-00432,2025-03-12 06:21,RSS Feed,Pixel 9,Pixel 9 sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00433,2025-09-07 10:40,Amazon Reviews,Memory Foam Pillow,"Wow, did not expect the Memory Foam Pillow to be this good at such a low price!",4,Positive,Surprise
+REC-00434,2025-03-28 18:48,RSS Feed,Stock Market,Analysts upgrade outlook on Stock Market citing stable fundamentals,,Positive,Trust
+REC-00435,2025-07-26 13:30,Amazon Reviews,Fire TV Stick 4K,Customer support for the Fire TV Stick 4K was quick and genuinely helpful.,5,Positive,Trust
+REC-00436,2025-09-29 06:01,Amazon Reviews,Kindle Paperwhite,The Kindle Paperwhite started smoking while charging - honestly scary.,2,Negative,Fear
+REC-00437,2025-03-08 03:24,Twitter/X,Tesla Model 3,"Kinda bummed, my Tesla Model 3 died today 😢",,Negative,Sadness
+REC-00438,2025-08-22 23:33,Amazon Reviews,4K Action Camera,Best purchase this year. The 4K Action Camera makes my day so much easier.,5,Positive,Joy
+REC-00439,2025-09-08 11:48,Reddit,Echo Dot Smart Speaker,Saw an ad for Echo Dot Smart Speaker today. Thoughts?,,Neutral,Neutral
+REC-00440,2025-01-12 18:32,Amazon Reviews,Espresso Machine,The Espresso Machine is fantastic - setup took two minutes and it just works.,4,Positive,Joy
+REC-00441,2025-10-01 19:03,Amazon Reviews,Air Fryer XL,Worst product ever. The Air Fryer XL overheats and the seller won't refund.,2,Negative,Anger
+REC-00442,2025-12-20 03:26,Twitter/X,Galaxy S25,Seriously Galaxy S25?? Third update this week and it's still broken 😡,,Negative,Anger
+REC-00443,2025-12-22 21:40,Amazon Reviews,Wireless Earbuds Pro,The Wireless Earbuds Pro arrived dirty and used. Gross and unacceptable.,1,Negative,Disgust
+REC-00444,2025-02-23 16:46,Amazon Reviews,Smart LED Bulbs,The Smart LED Bulbs started smoking while charging - honestly scary.,2,Negative,Fear
+REC-00445,2025-11-08 06:49,Reddit,Galaxy S25,"Kinda bummed, my Galaxy S25 died today 😢",,Negative,Sadness
+REC-00446,2025-01-21 17:31,Amazon Reviews,USB-C Fast Charger,"Reliable and well built, the USB-C Fast Charger is a brand I'll keep buying from.",4,Positive,Trust
+REC-00447,2025-02-26 18:42,RSS Feed,Space Exploration,Space Exploration sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00448,2025-11-26 07:29,Amazon Reviews,Fire TV Stick 4K,Terrible experience with the Fire TV Stick 4K. It broke after one week.,2,Negative,Anger
+REC-00449,2025-01-21 09:23,RSS Feed,Interest Rates,Interest Rates sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00450,2025-01-05 04:42,RSS Feed,iPhone 16,Concerns mount over iPhone 16 as uncertainty grips markets,,Negative,Fear
+REC-00451,2025-07-10 10:11,Reddit,MacBook Air M3,Anyone else tried the new MacBook Air M3? Thinking about it.,,Neutral,Neutral
+REC-00452,2025-08-04 20:56,Amazon Reviews,Espresso Machine,The Espresso Machine works as described. Packaging was standard.,3,Neutral,Neutral
+REC-00453,2025-02-23 13:58,Twitter/X,Pixel 9,Seriously Pixel 9?? Third update this week and it's still broken 😡,,Negative,Anger
+REC-00454,2025-12-17 23:57,Reddit,Pixel 9,"Kinda bummed, my Pixel 9 died today 😢",,Negative,Sadness
+REC-00455,2025-02-02 08:41,Amazon Reviews,Stainless Steel Cookware Set,"Reliable and well built, the Stainless Steel Cookware Set is a brand I'll keep buying from.",4,Positive,Trust
+REC-00456,2025-08-10 21:46,Amazon Reviews,Portable Power Bank,"It's a decent Portable Power Bank, though similar to others on the market.",3,Neutral,Neutral
+REC-00457,2025-01-06 20:59,Amazon Reviews,Air Fryer XL,The Air Fryer XL arrived dirty and used. Gross and unacceptable.,1,Negative,Disgust
+REC-00458,2025-06-14 07:21,Amazon Reviews,Stainless Steel Cookware Set,"The Stainless Steel Cookware Set is okay. Does what it says, nothing more.",3,Neutral,Neutral
+REC-00459,2025-05-01 02:29,NewsAPI,Pixel 9,Analysts upgrade outlook on Pixel 9 citing stable fundamentals,,Positive,Trust
+REC-00460,2025-03-02 15:47,Amazon Reviews,Memory Foam Pillow,"Reliable and well built, the Memory Foam Pillow is a brand I'll keep buying from.",5,Positive,Trust
+REC-00461,2025-11-06 19:40,Twitter/X,Echo Dot Smart Speaker,Just got my Echo Dot Smart Speaker and I'm obsessed 😍 #happy,,Positive,Joy
+REC-00462,2025-01-28 07:54,Amazon Reviews,USB-C Fast Charger,"Cheap plastic, awful smell - the USB-C Fast Charger feels disgusting to hold.",2,Negative,Disgust
+REC-00463,2025-02-19 21:14,Amazon Reviews,Stainless Steel Cookware Set,"Worried about privacy, the Stainless Steel Cookware Set keeps sending data without asking.",1,Negative,Fear
+REC-00464,2025-12-26 03:02,Amazon Reviews,Air Fryer XL,"It's a decent Air Fryer XL, though similar to others on the market.",3,Neutral,Neutral
+REC-00465,2025-05-11 19:12,RSS Feed,AI Regulation,AI Regulation: what to expect in the coming week,,Neutral,Neutral
+REC-00466,2025-08-01 01:59,Amazon Reviews,Espresso Machine,Best purchase this year. The Espresso Machine makes my day so much easier.,4,Positive,Joy
+REC-00467,2025-01-03 16:47,Twitter/X,Kindle Paperwhite,"Shoutout to the team behind Kindle Paperwhite, absolute game changer! 🙌",,Positive,Joy
+REC-00468,2025-12-21 18:11,Amazon Reviews,Smart LED Bulbs,"It's a decent Smart LED Bulbs, though similar to others on the market.",3,Neutral,Neutral
+REC-00469,2025-08-03 19:58,Twitter/X,Galaxy S25,"Been using Galaxy S25 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00470,2025-08-20 04:08,Twitter/X,PlayStation 5,"Been using PlayStation 5 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00471,2025-04-13 06:39,Amazon Reviews,4K Action Camera,"It's a decent 4K Action Camera, though similar to others on the market.",3,Neutral,Neutral
+REC-00472,2025-12-30 03:48,Reddit,Pixel 9,Saw an ad for Pixel 9 today. Thoughts?,,Neutral,Neutral
+REC-00473,2025-01-07 16:06,Amazon Reviews,Stainless Steel Cookware Set,"Cheap plastic, awful smell - the Stainless Steel Cookware Set feels disgusting to hold.",2,Negative,Disgust
+REC-00474,2025-03-24 09:43,Amazon Reviews,Noise Cancelling Headphones,The Noise Cancelling Headphones is fantastic - setup took two minutes and it just works.,5,Positive,Joy
+REC-00475,2025-07-03 14:06,Amazon Reviews,Kindle Paperwhite,The Kindle Paperwhite started smoking while charging - honestly scary.,1,Negative,Fear
+REC-00476,2025-07-15 12:26,Twitter/X,Fire TV Stick 4K,"Been using Fire TV Stick 4K daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00477,2025-11-14 14:53,RSS Feed,Pixel 9,Analysts upgrade outlook on Pixel 9 citing stable fundamentals,,Positive,Trust
+REC-00478,2025-05-31 14:11,Amazon Reviews,Air Fryer XL,Unfortunately the Air Fryer XL stopped charging. Such a letdown.,1,Negative,Sadness
+REC-00479,2025-01-21 13:17,NewsAPI,AI Regulation,Officials to discuss AI Regulation at upcoming summit,,Neutral,Neutral
+REC-00480,2025-06-19 14:45,Twitter/X,Pixel 9,"Kinda bummed, my Pixel 9 died today 😢",,Negative,Sadness
+REC-00481,2025-11-12 21:19,NewsAPI,AI Regulation,Report outlines latest developments in AI Regulation,,Neutral,Neutral
+REC-00482,2025-04-05 16:04,Amazon Reviews,Air Fryer XL,Pleasantly surprised by how long the battery on the Air Fryer XL lasts.,4,Positive,Surprise
+REC-00483,2025-06-28 07:56,Twitter/X,Echo Dot Smart Speaker,"Kinda bummed, my Echo Dot Smart Speaker died today 😢",,Negative,Sadness
+REC-00484,2025-10-15 20:00,Amazon Reviews,Robot Vacuum Cleaner,I've used the Robot Vacuum Cleaner for three months now and it is still rock solid.,5,Positive,Trust
+REC-00485,2025-12-16 10:24,Amazon Reviews,Air Fryer XL,"Wow, did not expect the Air Fryer XL to be this good at such a low price!",4,Positive,Surprise
+REC-00486,2025-09-22 11:32,NewsAPI,iPhone 16,Analysts upgrade outlook on iPhone 16 citing stable fundamentals,,Positive,Trust
+REC-00487,2025-09-21 02:06,RSS Feed,Galaxy S25,"Breakthrough announced in Galaxy S25, experts hail major progress",,Positive,Joy
+REC-00488,2025-12-17 13:53,Amazon Reviews,Echo Dot Smart Speaker,Unfortunately the Echo Dot Smart Speaker stopped charging. Such a letdown.,1,Negative,Sadness
+REC-00489,2025-08-24 22:21,Amazon Reviews,Smart LED Bulbs,"The Smart LED Bulbs is a complete waste of money, support ignored my emails.",1,Negative,Anger
+REC-00490,2025-10-22 07:58,Amazon Reviews,Fire TV Stick 4K,Customer support for the Fire TV Stick 4K was quick and genuinely helpful.,4,Positive,Trust
+REC-00491,2025-01-09 12:43,Amazon Reviews,Espresso Machine,"Reliable and well built, the Espresso Machine is a brand I'll keep buying from.",5,Positive,Trust
+REC-00492,2025-07-03 16:06,Amazon Reviews,Echo Dot Smart Speaker,Terrible experience with the Echo Dot Smart Speaker. It broke after one week.,1,Negative,Anger
+REC-00493,2025-07-22 21:01,Amazon Reviews,4K Action Camera,"Worried about privacy, the 4K Action Camera keeps sending data without asking.",2,Negative,Fear
+REC-00494,2025-11-21 04:19,Amazon Reviews,Portable Power Bank,Customer support for the Portable Power Bank was quick and genuinely helpful.,5,Positive,Trust
+REC-00495,2025-01-22 00:36,Reddit,iPhone 16,Seriously iPhone 16?? Third update this week and it's still broken 😡,,Negative,Anger
+REC-00496,2025-07-31 20:54,Twitter/X,PlayStation 5,"Been using PlayStation 5 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00497,2025-02-28 05:42,Amazon Reviews,Smartwatch Series 5,Pleasantly surprised by how long the battery on the Smartwatch Series 5 lasts.,4,Positive,Surprise
+REC-00498,2025-12-10 02:16,Twitter/X,Fire TV Stick 4K,"Shoutout to the team behind Fire TV Stick 4K, absolute game changer! 🙌",,Positive,Joy
+REC-00499,2025-02-21 09:39,Amazon Reviews,Stainless Steel Cookware Set,"Average Stainless Steel Cookware Set. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00500,2025-12-22 18:09,Amazon Reviews,USB-C Fast Charger,"Reliable and well built, the USB-C Fast Charger is a brand I'll keep buying from.",5,Positive,Trust
+REC-00501,2025-06-10 07:50,Reddit,MacBook Air M3,Anyone else tried the new MacBook Air M3? Thinking about it.,,Neutral,Neutral
+REC-00502,2025-09-03 14:28,Amazon Reviews,Smart LED Bulbs,I've used the Smart LED Bulbs for three months now and it is still rock solid.,5,Positive,Trust
+REC-00503,2025-05-24 04:57,Amazon Reviews,4K Action Camera,"The 4K Action Camera is a complete waste of money, support ignored my emails.",1,Negative,Anger
+REC-00504,2025-09-17 20:01,Amazon Reviews,Bluetooth Speaker Mini,Terrible experience with the Bluetooth Speaker Mini. It broke after one week.,1,Negative,Anger
+REC-00505,2025-10-04 15:41,RSS Feed,Electric Vehicles,Report outlines latest developments in Electric Vehicles,,Neutral,Neutral
+REC-00506,2025-08-26 16:32,Reddit,Echo Dot Smart Speaker,"Been using Echo Dot Smart Speaker daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00507,2025-09-21 04:28,Amazon Reviews,Air Fryer XL,Unfortunately the Air Fryer XL stopped charging. Such a letdown.,1,Negative,Sadness
+REC-00508,2025-04-23 15:14,Amazon Reviews,Noise Cancelling Headphones,"Cheap plastic, awful smell - the Noise Cancelling Headphones feels disgusting to hold.",1,Negative,Disgust
+REC-00509,2025-07-18 15:58,Amazon Reviews,Air Fryer XL,"Wow, did not expect the Air Fryer XL to be this good at such a low price!",5,Positive,Surprise
+REC-00510,2025-12-27 16:40,Amazon Reviews,Kindle Paperwhite,Pleasantly surprised by how long the battery on the Kindle Paperwhite lasts.,4,Positive,Surprise
+REC-00511,2025-07-07 18:41,RSS Feed,Pixel 9,Public backlash grows over controversial Pixel 9 decision,,Negative,Anger
+REC-00512,2025-06-30 11:31,NewsAPI,Pixel 9,"Breakthrough announced in Pixel 9, experts hail major progress",,Positive,Joy
+REC-00513,2025-04-28 02:32,Twitter/X,Fire TV Stick 4K,Anyone else tried the new Fire TV Stick 4K? Thinking about it.,,Neutral,Neutral
+REC-00514,2025-12-05 07:26,Twitter/X,Pixel 9,"Been using Pixel 9 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00515,2025-10-30 05:41,NewsAPI,Galaxy S25,Public backlash grows over controversial Galaxy S25 decision,,Negative,Anger
+REC-00516,2025-11-19 16:02,NewsAPI,Electric Vehicles,Electric Vehicles sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00517,2025-11-03 18:40,NewsAPI,Stock Market,"Breakthrough announced in Stock Market, experts hail major progress",,Positive,Joy
+REC-00518,2025-09-04 05:14,Amazon Reviews,4K Action Camera,The 4K Action Camera works as described. Packaging was standard.,3,Neutral,Neutral
+REC-00519,2025-03-27 23:43,NewsAPI,AI Regulation,"AI Regulation suffers steep decline, thousands of jobs at risk",,Negative,Sadness
+REC-00520,2025-07-17 04:06,Amazon Reviews,Memory Foam Pillow,"The Memory Foam Pillow is a complete waste of money, support ignored my emails.",2,Negative,Anger
+REC-00521,2025-11-11 19:02,Amazon Reviews,Smart LED Bulbs,"Average Smart LED Bulbs. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00522,2025-12-14 20:27,NewsAPI,Climate Policy,Concerns mount over Climate Policy as uncertainty grips markets,,Negative,Fear
+REC-00523,2025-07-15 11:37,Amazon Reviews,Air Fryer XL,"Average Air Fryer XL. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00524,2025-02-12 09:38,NewsAPI,iPhone 16,,,Positive,Trust
+REC-00525,2025-09-24 00:24,RSS Feed,Interest Rates,Interest Rates sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00526,2025-11-30 18:16,Reddit,Echo Dot Smart Speaker,"Shoutout to the team behind Echo Dot Smart Speaker, absolute game changer! 🙌",,Positive,Joy
+REC-00527,2025-07-31 17:50,Amazon Reviews,Smart LED Bulbs,"Worried about privacy, the Smart LED Bulbs keeps sending data without asking.",1,Negative,Fear
+REC-00528,2025-06-07 18:22,Twitter/X,MacBook Air M3,"Kinda bummed, my MacBook Air M3 died today 😢",,Negative,Sadness
+REC-00529,2025-08-17 22:10,Reddit,Pixel 9,Anyone else tried the new Pixel 9? Thinking about it.,,Neutral,Neutral
+REC-00530,2025-11-22 00:51,Amazon Reviews,Espresso Machine,"The Espresso Machine is a complete waste of money, support ignored my emails.",2,Negative,Anger
+REC-00531,2025-02-02 08:14,Amazon Reviews,,Pleasantly surprised by how long the battery on the Noise Cancelling Headphones lasts.,4,Positive,Surprise
+REC-00532,2025-03-31 20:31,Amazon Reviews,Kindle Paperwhite,"Cheap plastic, awful smell - the Kindle Paperwhite feels disgusting to hold.",1,Negative,Disgust
+REC-00533,2025-11-03 16:33,Amazon Reviews,USB-C Fast Charger,"Average USB-C Fast Charger. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00534,2025-02-14 08:49,Twitter/X,iPhone 16,Just got my iPhone 16 and I'm obsessed 😍 #happy,,Positive,Joy
+REC-00535,2025-12-27 02:58,Amazon Reviews,Espresso Machine,"Can't stop smiling, the Espresso Machine arrived early and works perfectly.",4,Positive,Joy
+REC-00536,2025-04-26 19:12,Amazon Reviews,4K Action Camera,"Worried about privacy, the 4K Action Camera keeps sending data without asking.",2,Negative,Fear
+REC-00537,2025-09-17 03:35,Amazon Reviews,Espresso Machine,The Espresso Machine started smoking while charging - honestly scary.,2,Negative,Fear
+REC-00538,2025-10-03 18:16,Amazon Reviews,4K Action Camera,"Can't stop smiling, the 4K Action Camera arrived early and works perfectly.",5,Positive,Joy
+REC-00539,2025-08-23 21:29,Reddit,Wireless Earbuds Pro,Never buying Wireless Earbuds Pro again. Customer service is a joke.,,Negative,Anger
+REC-00540,2025-11-21 07:43,NewsAPI,Galaxy S25,"Breakthrough announced in Galaxy S25, experts hail major progress",,Positive,Joy
+REC-00541,2025-05-08 09:05,Reddit,Echo Dot Smart Speaker,Saw an ad for Echo Dot Smart Speaker today. Thoughts?,,Neutral,Neutral
+REC-00542,2025-07-01 06:57,Amazon Reviews,Robot Vacuum Cleaner,"So happy with the Robot Vacuum Cleaner, the quality is outstanding for the price.",5,Positive,Joy
+REC-00543,2025-05-04 08:13,Twitter/X,Tesla Model 3,Seriously Tesla Model 3?? Third update this week and it's still broken 😡,,Negative,Anger
+REC-00544,2025-03-03 02:43,Amazon Reviews,Portable Power Bank,"Average Portable Power Bank. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00545,2025-09-04 11:39,RSS Feed,Stock Market,"Stock Market suffers steep decline, thousands of jobs at risk",,Negative,Sadness
+REC-00546,2025-10-23 04:03,Amazon Reviews,Bluetooth Speaker Mini,"Worried about privacy, the Bluetooth Speaker Mini keeps sending data without asking.",1,Negative,Fear
+REC-00547,2025-07-21 21:49,Amazon Reviews,Smart LED Bulbs,"Wow, did not expect the Smart LED Bulbs to be this good at such a low price!",5,Positive,Surprise
+REC-00548,2025-01-07 21:13,Amazon Reviews,Wireless Earbuds Pro,"Cheap plastic, awful smell - the Wireless Earbuds Pro feels disgusting to hold.",1,Negative,Disgust
+REC-00549,2025-10-08 08:15,Amazon Reviews,Wireless Earbuds Pro,Pleasantly surprised by how long the battery on the Wireless Earbuds Pro lasts.,4,Positive,Surprise
+REC-00550,2025-08-03 22:48,Amazon Reviews,Robot Vacuum Cleaner,"Reliable and well built, the Robot Vacuum Cleaner is a brand I'll keep buying from.",4,Positive,Trust
+REC-00551,2025-10-22 21:14,Amazon Reviews,Espresso Machine,"Can't stop smiling, the Espresso Machine arrived early and works perfectly.",4,Positive,Joy
+REC-00552,2025-03-16 23:09,RSS Feed,Electric Vehicles,Public backlash grows over controversial Electric Vehicles decision,,Negative,Anger
+REC-00553,2025-09-07 09:16,Amazon Reviews,Echo Dot Smart Speaker,I've used the Echo Dot Smart Speaker for three months now and it is still rock solid.,5,Positive,Trust
+REC-00554,2025-04-21 08:30,Twitter/X,Echo Dot Smart Speaker,Just got my Echo Dot Smart Speaker and I'm obsessed 😍 #happy,,Positive,Joy
+REC-00555,2025-07-04 17:35,NewsAPI,Galaxy S25,Public backlash grows over controversial Galaxy S25 decision,,Negative,Anger
+REC-00556,2025-12-14 19:12,RSS Feed,Space Exploration,"Breakthrough announced in Space Exploration, experts hail major progress",,Positive,Joy
+REC-00557,2025-02-10 12:39,Twitter/X,PlayStation 5,"Been using PlayStation 5 daily, never let me down. Highly recommend 👍",,Positive,Trust
+REC-00558,2025-02-06 02:10,Amazon Reviews,Noise Cancelling Headphones,The Noise Cancelling Headphones works as described. Packaging was standard.,3,Neutral,Neutral
+REC-00559,2025-11-06 20:25,Amazon Reviews,Robot Vacuum Cleaner,Customer support for the Robot Vacuum Cleaner was quick and genuinely helpful.,5,Positive,Trust
+REC-00560,2025-03-27 05:54,Amazon Reviews,Memory Foam Pillow,"Worried about privacy, the Memory Foam Pillow keeps sending data without asking.",2,Negative,Fear
+REC-00561,2025-07-23 03:06,Amazon Reviews,Portable Power Bank,"The Portable Power Bank is a complete waste of money, support ignored my emails.",1,Negative,Anger
+REC-00562,2025-02-23 08:39,Amazon Reviews,Stainless Steel Cookware Set,Worst product ever. The Stainless Steel Cookware Set overheats and the seller won't refund.,1,Negative,Anger
+REC-00563,2025-11-17 04:08,Amazon Reviews,Espresso Machine,Best purchase this year. The Espresso Machine makes my day so much easier.,5,Positive,Joy
+REC-00564,2025-09-01 14:55,Amazon Reviews,Smartwatch Series 5,Pleasantly surprised by how long the battery on the Smartwatch Series 5 lasts.,5,Positive,Surprise
+REC-00565,2025-10-30 19:29,Amazon Reviews,Bluetooth Speaker Mini,Unfortunately the Bluetooth Speaker Mini stopped charging. Such a letdown.,1,Negative,Sadness
+REC-00566,2025-09-04 17:14,Reddit,Fire TV Stick 4K,"Kinda bummed, my Fire TV Stick 4K died today 😢",,Negative,Sadness
+REC-00567,2025-06-05 00:00,RSS Feed,Interest Rates,,,Positive,Trust
+REC-00568,2025-12-19 15:48,Amazon Reviews,Noise Cancelling Headphones,Customer support for the Noise Cancelling Headphones was quick and genuinely helpful.,4,Positive,Trust
+REC-00569,2025-10-08 11:12,Amazon Reviews,Echo Dot Smart Speaker,The Echo Dot Smart Speaker started smoking while charging - honestly scary.,1,Negative,Fear
+REC-00570,2025-04-23 08:05,Amazon Reviews,Smart LED Bulbs,"So happy with the Smart LED Bulbs, the quality is outstanding for the price.",5,Positive,Joy
+REC-00571,2025-07-31 06:54,Amazon Reviews,Portable Power Bank,"Worried about privacy, the Portable Power Bank keeps sending data without asking.",2,Negative,Fear
+REC-00572,2025-05-20 22:39,Amazon Reviews,Noise Cancelling Headphones,Pleasantly surprised by how long the battery on the Noise Cancelling Headphones lasts.,5,Positive,Surprise
+REC-00573,2025-04-06 03:18,Amazon Reviews,Robot Vacuum Cleaner,"Can't stop smiling, the Robot Vacuum Cleaner arrived early and works perfectly.",4,Positive,Joy
+REC-00574,2025-01-08 15:13,Amazon Reviews,Memory Foam Pillow,"Really disappointed with the Memory Foam Pillow, I had such high hopes for it.",1,Negative,Sadness
+REC-00575,2025-12-23 01:21,Amazon Reviews,4K Action Camera,"Cheap plastic, awful smell - the 4K Action Camera feels disgusting to hold.",2,Negative,Disgust
+REC-00576,2025-04-03 06:57,Amazon Reviews,Noise Cancelling Headphones,I've used the Noise Cancelling Headphones for three months now and it is still rock solid.,5,Positive,Trust
+REC-00577,2025-08-15 07:47,RSS Feed,Stock Market,"Breakthrough announced in Stock Market, experts hail major progress",,Positive,Joy
+REC-00578,2025-08-31 12:43,NewsAPI,Galaxy S25,Concerns mount over Galaxy S25 as uncertainty grips markets,,Negative,Fear
+REC-00579,2025-05-10 15:40,RSS Feed,AI Regulation,Concerns mount over AI Regulation as uncertainty grips markets,,Negative,Fear
+REC-00580,2025-11-21 13:20,Amazon Reviews,Air Fryer XL,"The Air Fryer XL is okay. Does what it says, nothing more.",3,Neutral,Neutral
+REC-00581,2025-01-22 18:50,Amazon Reviews,Bluetooth Speaker Mini,The Bluetooth Speaker Mini arrived dirty and used. Gross and unacceptable.,1,Negative,Disgust
+REC-00582,2025-09-13 02:43,Twitter/X,MacBook Air M3,Seriously MacBook Air M3?? Third update this week and it's still broken 😡,,Negative,Anger
+REC-00583,2025-03-06 15:14,Twitter/X,iPhone 16,Just got my iPhone 16 and I'm obsessed 😍 #happy,,Positive,Joy
+REC-00584,2025-12-19 12:22,Amazon Reviews,Air Fryer XL,"Average Air Fryer XL. Some features are good, others are missing.",3,Neutral,Neutral
+REC-00585,2025-10-05 22:31,Reddit,iPhone 16,"Kinda bummed, my iPhone 16 died today 😢",,Negative,Sadness
+REC-00586,2025-11-03 17:10,Amazon Reviews,Smartwatch Series 5,"Worried about privacy, the Smartwatch Series 5 keeps sending data without asking.",2,Negative,Fear
+REC-00587,2025-08-21 00:49,Amazon Reviews,Noise Cancelling Headphones,Customer support for the Noise Cancelling Headphones was quick and genuinely helpful.,5,Positive,Trust
+REC-00588,2025-06-14 23:04,Reddit,Pixel 9,Anyone else tried the new Pixel 9? Thinking about it.,,Neutral,Neutral
+REC-00589,2025-11-10 09:20,Reddit,Tesla Model 3,"Kinda bummed, my Tesla Model 3 died today 😢",,Negative,Sadness
+REC-00590,2025-03-08 05:55,Amazon Reviews,Robot Vacuum Cleaner,"Wow, did not expect the Robot Vacuum Cleaner to be this good at such a low price!",4,Positive,Surprise
+REC-00591,2025-12-03 15:33,Amazon Reviews,Wireless Earbuds Pro,Terrible experience with the Wireless Earbuds Pro. It broke after one week.,2,Negative,Anger
+REC-00592,2025-04-17 20:31,Reddit,iPhone 16,Just got my iPhone 16 and I'm obsessed 😍 #happy,,Positive,Joy
+REC-00593,2025-10-13 23:56,NewsAPI,Galaxy S25,Officials to discuss Galaxy S25 at upcoming summit,,Neutral,Neutral
+REC-00594,2025-02-06 09:04,Amazon Reviews,Air Fryer XL,Furious - the Air Fryer XL stopped working right after the return window closed.,1,Negative,Anger
+REC-00595,2025-04-08 06:33,NewsAPI,Climate Policy,"Climate Policy suffers steep decline, thousands of jobs at risk",,Negative,Sadness
+REC-00596,2025-11-23 18:22,Twitter/X,Fire TV Stick 4K,"Kinda bummed, my Fire TV Stick 4K died today 😢",,Negative,Sadness
+REC-00597,2025-09-16 10:42,Reddit,Galaxy S25,"Shoutout to the team behind Galaxy S25, absolute game changer! 🙌",,Positive,Joy
+REC-00598,2025-07-10 13:48,Amazon Reviews,Memory Foam Pillow,"It's a decent Memory Foam Pillow, though similar to others on the market.",3,Neutral,Neutral
+REC-00599,2025-10-09 23:16,Reddit,Wireless Earbuds Pro,"Shoutout to the team behind Wireless Earbuds Pro, absolute game changer! 🙌",,Positive,Joy
+REC-00600,2025-05-26 19:01,Amazon Reviews,Memory Foam Pillow,I've used the Memory Foam Pillow for three months now and it is still rock solid.,4,Positive,Trust
+REC-00601,2025-05-01 20:43,Amazon Reviews,Robot Vacuum Cleaner,The Robot Vacuum Cleaner arrived dirty and used. Gross and unacceptable.,1,Negative,Disgust
+REC-00602,2025-10-20 06:54,NewsAPI,Interest Rates,Interest Rates sees record growth as investors cheer strong quarter,,Positive,Joy
+REC-00603,2025-09-04 17:14,Reddit,Fire TV Stick 4K,"Kinda bummed, my Fire TV Stick 4K died today 😢",,Negative,Sadness
+REC-00604,2025-11-27 22:31,Amazon Reviews,Smart LED Bulbs,Unfortunately the Smart LED Bulbs stopped charging. Such a letdown.,2,Negative,Sadness
+REC-00605,2025-02-26 15:38,Amazon Reviews,Kindle Paperwhite,Pleasantly surprised by how long the battery on the Kindle Paperwhite lasts.,4,Positive,Surprise
+REC-00606,2025-10-16 07:36,NewsAPI,iPhone 16,iPhone 16: what to expect in the coming week,,Neutral,Neutral
+REC-00091,2025-02-28 17:14,Reddit,Wireless Earbuds Pro,Never buying Wireless Earbuds Pro again. Customer service is a joke.,,Negative,Anger
+REC-00145,2025-10-12 11:07,Amazon Reviews,Noise Cancelling Headphones,"Really disappointed with the Noise Cancelling Headphones, I had such high hopes for it.",2,Negative,Sadness
+REC-00146,2025-01-15 05:17,Twitter/X,Echo Dot Smart Speaker,Saw an ad for Echo Dot Smart Speaker today. Thoughts?,,Neutral,Neutral
